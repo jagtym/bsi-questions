@@ -1,0 +1,6 @@
+QQ1111
+3636.	Wskaż cechy uprawnień POSIX CAP: [1/1]
+	mogą być przypisywane do użytkowników
+	mogą być przypisywane do procesów
+	podlegają dziedziczeniu przez procesy potomne
+	pozwalają na delegowanie podmiotom wybranych elementarnych uprawnień administracyjnych

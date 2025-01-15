@@ -1,10 +1,6 @@
-QQ01001111
+QQ0100
 35.	Które z poniższych cech prawidłowo opisują protokół IPsec?
 	może działać z uwierzytelnianiem stron dokumentowanym tylko przez ESP
 	może działać w trybie tylko z ochroną integralności przez ESP
 	może działać z uwierzytelnianiem stron dokumentowanym tylko przez AH
-	może działać w trybie tylko z ochroną integralności przez AH 37 . Wskaż cechy uprawnień POSIX CAP: [1/1]
-	mogą być przypisywane do użytkowników
-	mogą być przypisywane do procesów
-	podlegają dziedziczeniu przez procesy potomne
-	pozwalają na delegowanie podmiotom wybranych elementarnych uprawnień administracyjnych
+	może działać w trybie tylko z ochroną integralności przez AH
