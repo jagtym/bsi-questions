@@ -1,0 +1,6 @@
+QQ1000
+188.	Dziedziczenie uprawnień w systemie plików NTFS:
+	uprawnienia sa pobierane bezpośrednio z uprawnień obiektu wyższego
+	może przenieść również na system plików FAT64
+	jest identycznie z systemem plików ext3
+	nie istnieje w tym systemie plików

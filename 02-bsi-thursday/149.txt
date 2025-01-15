@@ -1,0 +1,6 @@
+QQ0101
+149.	Wskaż kto może rozszyfrować plik zaszyfrowany mechanizmem EFS:
+	każdy agent DRA istniejący w momencie deszyfrowania pliku
+	właściciel pliku
+	administrator
+	każdy DRA istniejący w momencie szyfrowania pliku

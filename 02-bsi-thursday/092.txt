@@ -1,0 +1,8 @@
+QQ100011
+92.	Które z poniższych protokołów służą realizacji kryptograficznych tuneli wirtualnych:
+	TLS
+	LDAP
+	X.400
+	L2TP
+	IPsec
+	SSL

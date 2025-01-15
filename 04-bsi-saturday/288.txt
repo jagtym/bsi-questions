@@ -1,0 +1,6 @@
+QQ0110
+288.	Wskaż możliwe sposoby uwierzytelniania tunelu IPsec w systemie Windows:
+	Wskaż możliwe sposoby uwierzytelniania tunelu IPsec w systemie Windows:
+	certyfikat X.509
+	hasło
+	klucz RSA

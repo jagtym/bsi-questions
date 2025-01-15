@@ -1,0 +1,6 @@
+QQ1000
+243.	Skrót KDC w systemie Kerberos oznacza
+	Key Distribution Center
+	Kerberos Domain Controller
+	Kerberos Directory Center
+	Kerberos Designated Certificate

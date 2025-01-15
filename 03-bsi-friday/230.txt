@@ -1,0 +1,7 @@
+QQ00010
+230.	SFTP to
+	klient protokołu FTP będący częścią pakietu SSH
+	niezależna implementacja protokołu Secure FTP
+	SSL FTP , czyli wersja protokołu FTP wykorzystująca mechanizm certyfikatów SSL
+	podsystem SSH służący do przesyłania plików
+	podsystem raportowania o błędach w SSH

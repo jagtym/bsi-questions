@@ -1,0 +1,6 @@
+QQ0100
+106.	Następująca reguła filtracji zapory sieciowej:
+	blokuje wszelkie połączenia nawiązywane z serwera www o dowolnym adresie
+	blokuje wszelkie połączenia nawiązywane z serwera www o adresie 1.1.1.1
+	blokuje wszelkie połączenia nawiązywane z serwerem www o adresie 1.1.1.1
+	blokuje wszelkie połączenia nawiązywane z serwerem www o dowolnym adresie

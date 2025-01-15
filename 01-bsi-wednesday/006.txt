@@ -1,0 +1,6 @@
+QQ0110
+6.	Które komponenty systemu operacyjnego Windows mogą korzystać ze sprzętowej wirtualizacji celem podniesienia bezpieczeństwa systemu: [1/1]
+	Alpine docker containers
+	Defender Application Guard
+	AppContainer
+	Ring - 1 compartmentalization

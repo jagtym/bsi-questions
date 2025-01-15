@@ -1,0 +1,6 @@
+QQ1001
+350.	Czy iptables umozliwia ograniczenie dostepu do uslugi w jednym poleceniu?
+	jesli okreslamy protokol
+	jesli nie okreslimy protokolu
+	nie
+	tak

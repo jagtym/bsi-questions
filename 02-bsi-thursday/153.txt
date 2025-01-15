@@ -1,0 +1,6 @@
+QQ0010
+153.	Ktore z ponizszych okreslen opisuja mechanizm CAP (capabilities):
+	opisuje prawa uwierzytelnionego użytkownika w bilecie systemu Kerberos
+	specyfikuje w certyfikacie klucza publicznego możliwości wykorzystania danego klucza
+	pozwala na rozdzielenie uprawnień ogólno administracyjnych na szczegółowe podzbiory
+	przydziela użytkownikowi pewne informacje uwierzytelniające przedstawiane następnie podczas dostępu do poszczególnych usług

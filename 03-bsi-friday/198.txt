@@ -1,0 +1,5 @@
+QQ100
+198.	Pakiet FreeS/Wan składa się z:
+	z trzech komponentów: łata na jądro KLIPS, demon PLUTO, zestaw skryptów
+	z dwóch protokołów: AH i ESP
+	z kilkunastu różnych algorytmów szyfrowania m.in. DES i 3DES oraz protokołu wymiany kluczy: ISAKMP

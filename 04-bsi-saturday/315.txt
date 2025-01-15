@@ -1,0 +1,6 @@
+QQ0011
+315.	W metodzie uzgadniania klucza Diffiego-Hellmana system kompromituje (narusza bezpieczenstwo)
+	przechwycenia jednego z wymienianych kluczy
+	przechwycenia obu wymienianych kluczy
+	podstawienie falszywego klucza w miejsce kazdego z wymienianych
+	podstawienie falszywego klucza w miejsce dowolnego z wymienianych

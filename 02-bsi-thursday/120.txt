@@ -1,0 +1,6 @@
+QQ0100
+120.	Atak typu TCP spoofing wymaga:
+	intensywnego zalewania segmentami SYN
+	odgadnięcia numeru ISN strony odbierającej żądanie nawiązania połączenia
+	odgadnięcia numeru sekwencyjnego pierwszego segmentu strony żądającej nawiązania połączenia
+	zalewania żądaniami nawiązania połączenia TCP w trybie rozgłoszeniowym

@@ -1,0 +1,8 @@
+QQ101110
+101.	Użycie IPsec + IKE wprost chroni przed atakiem:
+	name spoofing
+	ARP cache spoofing
+	TCP spoofing
+	session hijacking
+	network sniffing
+	ARP spoofing

@@ -1,0 +1,6 @@
+QQ0100
+254.	Wskaż warunek wystarczający do weryfikacji podpisu cyfrowego wiadomości S/MIME:
+	uprzednie przesłanie do nadawcy klucza publicznego odbiorcy
+	uprzednie przesłanie do odbiorcy klucza publicznego nadawcy
+	dostęp do centrum CA w celu pobrania certyfikatu wskazanego w podpisie (i innych certyfikatów na ścieżce certyfikacji)
+	wymiana kluczy między nadawcą a odbiorcą metodą Diffiego-Hellmana

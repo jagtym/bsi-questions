@@ -1,0 +1,6 @@
+QQ1011
+241.	Które zdania poprawnie opisują proces uwierzytelniania w usłudze pocztowej?
+	standard ESMTP umozliwia uwierzytelnianie metoda zawolanie-odzew
+	standard SMTP umozliwia uwierzytelnianie metoda zawolanie-odzew
+	w standardzie SMTP serwery uwierzytelniane są na podstawie adresów
+	standard ESMTP oferuje mechanizmy uwierzytelniania SASL i TLS

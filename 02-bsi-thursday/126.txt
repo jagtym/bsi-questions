@@ -1,0 +1,9 @@
+QQ1110110
+126.	Które operacje mogą być wykorzystywane do realizacji ataku DoS (Denial of Service):
+	intensywny strumień segmentów FIN z adresem docelowym ofiary
+	fragmentacja datagramu o sumarycznej wielkości ponad 64kB
+	intensywny strumień pakietów UDP echo z adresem docelowym ofiary
+	intensywny strumień rozgłoszeniowym segmentów SYN z adresem źródłowym ofiary
+	intensywny strumień segmentów SYN z adresem docelowym ofiary
+	intensywny strumień rozgłoszeniowych pakietów ICMP echo z adresem źródłowym ofiary
+	fragmentacja datagramu o sumarycznej wielkości ponad 16 kB

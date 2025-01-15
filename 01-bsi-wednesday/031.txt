@@ -1,0 +1,6 @@
+QQ1001
+31.	Wskaż cechy charakterystyczne ataku przez przepełnienie bufora (w segmencie stosu): [1/1]
+	celem przepełnienia jest nadpisanie adresu powrotu w ramce funkcji odłożonej aktualnie na stosie
+	architektura pamięci musi być taka by adresy rosły zgodnie z kierunkiem przyrostu stosu
+	celem przepełnienia jest nadpisanie pamięci jądra i wywołanie błędu obsłużonego przez złośliwy kod
+	przepełnienie bufora można wykryć i odpowiednio zareagować’

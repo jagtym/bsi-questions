@@ -1,0 +1,6 @@
+QQ1010
+295.	Wskaż pliki zaangażowane w konfigurację TCP wrappera w systemie Unix:
+	/etc/hosts.allow
+	/etc/hosts
+	/etc/hosts.deny
+	/etc/hosts.equiv

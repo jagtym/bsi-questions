@@ -1,0 +1,6 @@
+QQ0001
+4.	Usługa DNSsec: [1/1]
+	wykorzystuje IPsec do tunelowania zapytań i odpowiedzi DNS
+	wykorzystuje SSL do tunelowania zapytań i odpowiedzi DNS
+	wymaga podpisanych cyfrowo zapytań DNS
+	stosuje podpisy cyfrowe odpowiedzi DNS

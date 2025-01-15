@@ -1,0 +1,5 @@
+QQ010
+354.	Do czego sluzy komenda rsh?
+	pozwala wykonac zdalne polecenie na lokalnym hoscie
+	pozwala wykonac polecenie na zdalnym hoscie
+	pozwala nawiazac szyfrowane polaczenie ze zdalnym hostem

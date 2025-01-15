@@ -1,0 +1,6 @@
+QQ0100
+61.	Uprawnienia domyślne na liście POSIX ACL nadawane są:
+	jedynie plikom wykonywalnym w celu uściślenia jakie uprawnienia mają mieć pliki tworzone w czasie działania tych programów
+	jedynie katalogom w celu inicjowania list ACL nowo tworzonym plikom
+	plikom i katalogom w celu określenia uprawnień w przypadku braku pasującego wpisu ACE
+	plikom i katalogom w celu określenia ACL w przypadku ich kopiowania lub przenoszenia do innego katalogu

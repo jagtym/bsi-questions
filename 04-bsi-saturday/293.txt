@@ -1,0 +1,6 @@
+QQ0101
+293.	Grupa użytkowników w systemie MS Windows o nazwie Użytkownicy uwierzytelnieni:
+	jest identyczna z grupą Wszyscy
+	jest podzbiorem grupy Wszyscy
+	obejmuje wszystkich użytkowników lokalnych
+	nie obejmuje konta Gość

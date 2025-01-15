@@ -1,0 +1,8 @@
+QQ101011
+95.	Które stwierdzenie poprawnie opisują protokół IKE w IPsec:
+	realizuje uwierzytelnianie stron
+	realizuje podpis cyfrowy pakietów IP
+	korzysta z UDP
+	korzysta z ICMP
+	realizuje negocjację algorytmów szyfrujących
+	realizuje wymianę kluczy metodą Diffiego-Hellmana

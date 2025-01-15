@@ -1,0 +1,7 @@
+QQ01101
+287.	Szyfrowanie asymetryczne w PGP:
+	jest wykorzystywane do zaszyfrowania treści wiadomości
+	jest wykorzystywane przy podpisywaniu wiadomości
+	to uzywanie dwoch matematycznie zaleznych kluczy
+	wymaga użycia klucza publicznego nadawcy do rozszyfrowania listu
+	wymaga użycia klucza publicznego odbiorcy do zaszyfrowania listu

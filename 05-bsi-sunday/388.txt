@@ -1,0 +1,6 @@
+QQ1000
+388.	Klucz z certyfikatu EFS użytkownika U jest wykorzystywany w systemie NTFS do:
+	szyfrowania jednorazowych kluczy, którymi zaszyfrowane zostały poszczególne pliki do których U ma dostęp
+	szyfrowania i deszyfrowania treści plików należących do U
+	szyfrowania i deszyfrowania wszelkiej komunikacji z użytkownikiem U (np. poczty elektronicznej)
+	szyfrowania i deszyfrowania treści plików należących do użytkowników, którzy udostępnili te pliki użytkownikowi U

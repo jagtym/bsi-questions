@@ -1,0 +1,8 @@
+QQ101100
+93.	Które z poniższych protokołów służą realizacji kryptograficznych tuneli wirtualnych z ochroną integralności?
+	TLS
+	S/MIME
+	AH
+	ESP
+	PGP
+	X.400

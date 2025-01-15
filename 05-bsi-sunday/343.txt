@@ -1,0 +1,6 @@
+QQ1000
+343.	W jaki sposob administrator moze narzucic ograniczenia uzytkownikom (limity)?
+	korzystajac z mechanizmu PAM
+	korzystajac z mechanizmu Kerberos
+	wykorzystujac skrypt "hosts.equiv"
+	wykorzystujac skrypty startowe systemu

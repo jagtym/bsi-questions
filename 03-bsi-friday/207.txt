@@ -1,0 +1,6 @@
+QQ1100
+207.	Wskaż cechy metody uwierzytelniania klienta wobec serwera z udziałem zaufanej trzeciej strony:
+	serwer uwierzytelnia klienta na podstawie poświadczenia wystawionego przez trzecią stronę
+	opłaca się stosować szczególnie wobec większej ilości serwerów
+	serwer uwierzytelnia klienta poprzez hasło (np. jednorazowe)
+	serwer uwierzytelnia klienta metoda challenge-response

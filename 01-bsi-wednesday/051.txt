@@ -1,0 +1,6 @@
+QQ0001
+51.	Jakie hasło jest domyślnie wymagane przez polecenie sudo, jeżeli w konfiguracji nie będzie ustawione inaczej (czyli jeżeli wszystkie ustawienia będą miały wartości domyślne)?
+	administratora systemu
+	właściciela programu (SUID) uruchamianego tym poleceniem
+	hasło puste (domyślnie sudo nie pyta o hasło)
+	użytkownika wywołującego polecenie sudo

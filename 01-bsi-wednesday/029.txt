@@ -1,0 +1,6 @@
+QQ1011
+29.	Które z poniższych mechanizmów pozwalają w systemie operacyjnym na chwilowe uzyskanie innych uprawnień dostępu niż posiadane aktualnie przez użytkownika: [0.7/1]
+	Windows UAC
+	POSIX ACL
+	sudo
+	POSIX CAP

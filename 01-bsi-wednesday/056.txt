@@ -1,0 +1,7 @@
+QQ10100
+56.	Serwer OpenVPN umożliwia uwierzytelnianie klientów poprzez:
+	klucze kryptograficzne
+	hasła użytkowników
+	certyfikaty X.509
+	protokół Kerberos
+	biometrycznie, poprzez analizę długości rzutu beretem

@@ -1,0 +1,6 @@
+QQ0010
+301.	W jaki sposób przebiega uwierzytelnianie w usłudze rlogin
+	uwierzytelnienie obu stron połączenia następuje mechanizmem Challenge-Response
+	zawsze wymagane jest uwierzytelnianie bez hasła
+	możliwe jest wykorzystanie SSO by nie podawać hasła
+	zawsze wymagane jest hasło

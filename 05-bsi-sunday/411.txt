@@ -1,0 +1,6 @@
+QQ1010
+411.	Które z poniższych protokołów służą do realizacji kryptograficznych tuneli wirtualnych:
+	TLS
+	SSO
+	IKE
+	ESP

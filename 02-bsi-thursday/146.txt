@@ -1,0 +1,11 @@
+QQ000100110
+146.	Która z poniższych cech poprawnie opisuje protokół RADIUS:
+	wspiera realizację kontroli dostępu do zasobów sieciowych
+	umożliwia rejestrowanie dostępu do zasobów sieciowych
+	chroni przed atakami DNS spoofing
+	umożliwia scentralizowane uwierzytelnianie podmiotów
+	oferuje wymiane kluczy protokołu IPsec przy wykorzystaniu zarówno haseł jak i certyfikatów PKI
+	podnosi dostępność poprzez redundantne rozproszenie danych uwierzytelniających do wielu punktów dostępowych
+	udostępnia informacje niezbędne do kontroli uprawnień zdalnego dostępu (np. restrykcje czasowe)
+	pozwala na scentralizowane przechowywanie danych uwierzytelniających dla wielu punktów dostępowych
+	podnosi dostepnosc poprzez redundantne rozproszenie danych uwierzytelniajacych do wielu punktow dostepowych

@@ -1,0 +1,6 @@
+QQ0010
+204.	Translacja typu DNAT charakteryzuje się:
+	zamiana adresów źródłowych na inne (możliwe do wykorzystania na danym urządzeniu)
+	nie ma translacji typu DNAT
+	zamiana adresów docelowych na inne
+	zamiana adresu źródłowego z adresem docelowym w konkretnym pakiecie

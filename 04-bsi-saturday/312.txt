@@ -1,0 +1,6 @@
+QQ0100
+312.	Aby zweryfikować podpis cyfrowy w systeme PGP wiadomości od nadawcy A do odbiorcy B potrzeba:
+	klucz prywatny nadawcy A, przecież B nie posiada klucza prywatnego A, a A podpisuje swoim prywatnym
+	klucz publiczny nadawcy A
+	klucz prywatny odbiorcy B
+	klucz publiczny odbiorcy B

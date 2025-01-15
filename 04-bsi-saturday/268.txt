@@ -1,0 +1,6 @@
+QQ0100
+268.	Co oznacza termin “asocjacja bezpieczeństwa” (ang.Security Association)?
+	Nazwa jednokierunkowego protokołu uwierzytelniania tuneli IPSec
+	Jest to zestaw parametrów zabezpieczonego połączenia niezbędny do poprawnej interpretacji danych płynących w tunelu VPN
+	Jest to wstępny proces zestawiania tunelu VPN, w którym negocjowane są parametry połączenia
+	Jest to nazwa polityki IPsec określające filtry pakietów poddawanych zabezpieczaniu

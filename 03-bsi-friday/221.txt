@@ -1,0 +1,6 @@
+QQ0010
+221.	Wskaż własności protokołu HSRP (Hot Standby Router Protocol):
+	służy do tworzenia tuneli VPN
+	zabezpiecza poczte elektroniczna
+	pozwala uzyskać redundancje routerów
+	wspomaga uwierzytelnianie

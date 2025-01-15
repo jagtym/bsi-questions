@@ -1,0 +1,6 @@
+QQ1100
+274.	Preshared key to
+	(wstępny) klucz symetryczny
+	mechanizm pozwalający uwierzytelniać i szyfrować za pomocą jednego klucza
+	silny mechanizm uwierzytelniania wykorzystujący generowany losowo po obu stronach klucz
+	silny mechanizm szyfrowania wykorzystujący certyfikaty SSL do generacji losowego klucza sesyjnego

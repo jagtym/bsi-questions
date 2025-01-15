@@ -1,0 +1,6 @@
+QQ1010
+186.	Wykorzystując stanowość zapory sieciowej możemy określić:
+	odrzucić pakiety próbujące podszywać się pod rzekomo istniejące połączenia
+	czy pakiet próbuje obejść nasz system bezpieczeństwa
+	czy połączenie jest już ustanowione
+	czy pakiet zawiera flagę ACK

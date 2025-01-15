@@ -1,0 +1,6 @@
+QQ0001
+358.	Ktorym z ponizszych terminow okresla sie ograniczone srodowisko wykonawcze aplikacji lub jej komponentu:
+	komnata (room)
+	komora (chamber)
+	karcer (jailbox)
+	piaskownica (sandbox)

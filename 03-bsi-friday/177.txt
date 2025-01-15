@@ -1,0 +1,12 @@
+QQ1011000110
+177.	Do szyfrów symetrycznych zaliczamy:
+	IDEA
+	RSA
+	Rijndael
+	Blowfish
+	ElGamal
+	MD4
+	MD5
+	DES
+	RC4
+	RC2 k) AES l) żadne z powyższych

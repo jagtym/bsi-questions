@@ -1,0 +1,6 @@
+QQ1000
+338.	Zaleta single-sign-on jest:
+	jednokrotne uwierzytelnianie
+	stosowanie funkcji skrotu w celu uwierzytelniania
+	jednokrotne szyfrowanie
+	jednokrotna autoryzacja

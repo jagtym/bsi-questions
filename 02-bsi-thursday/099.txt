@@ -1,0 +1,6 @@
+QQ1000
+99.	Mechanizm umożliwiający przydzielenie poszczególnych uprawnień administracyjnych (uprzywilejowanych operacji jądra systemy operacyjnego) użytkownikom to:
+	capabilities
+	sandbox
+	remote administration
+	switch root

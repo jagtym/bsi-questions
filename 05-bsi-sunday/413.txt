@@ -1,0 +1,6 @@
+QQ1100
+413.	Wskaż możliwe sposoby ochrony przed atakami na protokół DHCP (takimi jak np. DHCP redirection, lease starvation):
+	DHCP Snooping - przełącznik przepuszcza odpowiedzi DHCP tylko z określonego wcześniej portu
+	DHCP Hoping - zapora zamienia numer VLAN w zadaniach DHCP
+	ICMP redirection - wykorzystanie ICMP do ponownej zmiany trasy pakietów DHCP
+	DHCP session hijacking - przejmowanie połączeń TCP sesji DHCP przez proxy

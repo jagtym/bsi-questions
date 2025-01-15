@@ -1,0 +1,6 @@
+QQ0100
+199.	Kryptografia oportunistyczna to:
+	nowy rodzaj szyfrowania, bardzo wydajny i nie do złamania w dzisiejszych czasach z użyciem obecnych maszyn obliczeniowych
+	automatyczny sposób negocjowania parametrów połączenia zaimplementowany w pakiecie FreeS/Wan
+	eksperymentalny projekt nowego rodzaju szyfrowania rozwijany na potrzeby amerykańskiej Agencji Bezpieczeństwa Narodowego
+	prosty rodzaj szyfrowania, nazwa "oportunistyczna" zaczerpnięta od francuskiego słowa: opportunisme oznaczającego "sprzyjający, dogodny"

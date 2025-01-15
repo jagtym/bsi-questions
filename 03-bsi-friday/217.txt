@@ -1,0 +1,6 @@
+QQ0001
+217.	Który z wymienionych protokołów nie chroni przed podszywaniem się pod podmiot uwierzytelniający:
+	SSL v3
+	SSL v2
+	TLS v1
+	PAP

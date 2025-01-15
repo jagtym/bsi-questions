@@ -1,0 +1,6 @@
+QQ1010
+200.	Narzędzie FreeS/Wan to:
+	łata na jądro implementująca funkcjonalność ISec plus zestaw skryptów do zarządzania tym narzędziem
+	program działający w przestrzeni użytkownika który posiada jeden plik konfiguracyjny zlokalizowany domyślnie: /etc/spiec
+	narzędzie w formie łaty na jądro systemu Linux wraz z zestawem skryptów zarządzających oraz demon pozwalający wymieniać klucze
+	narzędzie bardzo podobne do narzędzia Vtun służące do zestawiania połączeń VPN

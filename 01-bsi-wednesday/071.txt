@@ -1,0 +1,6 @@
+QQ0011
+71.	Które z poniższych twierdzeń jest prawdziwe? [1/1]
+	program SSH na komputerze A może połączyć się z komputerem B, tak by B nasłuchiwał na połączenia na porcie X. Metoda ta nazywa się local port forwarding (-L)
+	program SSH do uwierzytelniania oraz szyfrowania komunikacji pomiędzy komputerem A i B wykorzystuje algorytm RSA
+	program SSH na komputerze A wykorzystuje klucz publiczny komputera B w celu weryfikacji czy tożsamość B się nie zmieniła
+	program SSH na komputerze A może połączyć się z komputerem B, tak by B nasłuchiwał na połączenia na porcie X. Metoda ta nazywa się remote port forwarding (-R)

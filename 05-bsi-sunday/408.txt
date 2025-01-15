@@ -1,0 +1,6 @@
+QQ0101
+408.	Ataki o nazwie phishing:
+	dotyczą wykradzenia zaufanych certyfikatów CA
+	realizowane są za pośrednictwem poczty
+	polegają na zatruwania cache przeglądarki www
+	realizowane są za pośrednictwem www

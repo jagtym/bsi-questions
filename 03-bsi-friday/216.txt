@@ -1,0 +1,9 @@
+QQ1010000
+216.	Wskaż cechy charakteryzujące kontrole dostępu MAC:
+	właściciel zasobu nie może przekazać możliwość decydowania o uprawnieniach dostępu do tego zasobu
+	właściciel zasobu może przekazać możliwość decydowania o uprawnieniach dostępu do tego zasobu
+	właściciel zasobu nie może decydować o uprawnieniach dostępu do tego zasobu
+	właściciel zasobu może decydować o uprawnieniach dostępu do tego zasobu
+	tylko właściciel zasobu może dysponować prawami dostępu do tego zasobu
+	tylko wyróżniony oficer bezpieczeństwa może dysponować prawami dostępu do zasobów
+	etykiety ochrony danych przypisane do zasobów automatycznie wymuszają uprawnienia

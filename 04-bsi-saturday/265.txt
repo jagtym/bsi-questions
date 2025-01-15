@@ -1,0 +1,6 @@
+QQ1001
+265.	Trusted Platform Module (TPM) może być wykorzystywany do:
+	przechowywania kluczy kryptograficznych używanych przez aplikacje w systemie operacyjnym
+	uwierzytelniania podmiotu przy wystawianiu certyfikatu przez urząd CA w systemie PKI
+	podejmowania decyzji o autoryzacji w systemie kontroli dostępu MAC
+	wykonywania operacji kryptograficznych zlecanych przez aplikacje w systemie operacyjnym

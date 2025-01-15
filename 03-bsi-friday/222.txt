@@ -1,0 +1,6 @@
+QQ0100
+222.	Wskaż najbezpieczniejszy standard zabezpieczeń komunikacji w sieciach bezprzewodowych Wi-Fi:
+	IEEE 802.11 WEP
+	IEEE 802.11i WPA
+	WPA-Enterprise
+	WPA-PSK

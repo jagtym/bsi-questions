@@ -1,0 +1,6 @@
+QQ1110
+313.	Kiedy w Windowsie następuje zerowanie licznika prób wpisania hasła:
+	Po pomyślnym zalogowaniu
+	Po upływie określonego czasu
+	Administrator może ręcznie wyzerować
+	nie pamiętam, ale nie powinno być zaznaczone

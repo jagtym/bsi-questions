@@ -1,0 +1,6 @@
+QQ0111
+7.	Wskaż mechanizmy chroniące m.in. przed atakami przepełnienia bufora: [1/1]
+	wykorzystanie Structured Exception Handling i Vectored Exception Handling
+	zapewnienie by segment pamięci z prawem zapisu nie posiadał jednocześnie prawa wykonywania
+	randomizacja alokacji wirtualnej przestrzeni adresowej procesu - aslr
+	alokowanie na stosie dodatkowego elementu ramki funkcji wykrywającego modyfikację adresu powrotu - stack cookie (kanarek)

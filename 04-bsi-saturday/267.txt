@@ -1,0 +1,6 @@
+QQ0010
+267.	W jaki sposób można jednoznacznie określić, które konto w systemie operacyjnym MS Windows jest wbudowanym kontem administracyjnym?
+	Aktualnie nie ma jednego wbudowanego konta administracyjnego- każde konto użytkownika może posiadać takie uprawnienia po odpowiedniej konfiguracji
+	konto takie ma zawsze nazwę “Administrator”
+	część względna identyfikatora tego konta ma stałą wartość 500
+	część względna identyfikatora tego konta ma stałą wartość 0

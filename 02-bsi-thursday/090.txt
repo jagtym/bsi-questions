@@ -1,0 +1,9 @@
+QQ0001000
+90.	Koncepcja „zamkniętych grup użytkowników” dotyczy odseparowania danych przetwarzanych przez odrębne grupy użytkowników tego samego środowiska sieciowego. Które z poniższych mechanizmów są realizacją tej koncepcji:
+	sandbox net jail
+	Trusted Execution Environment (TEE)
+	Virtualization-Based Security (VBS)
+	sieci wirtualne VLAN
+	uwięzienie (jail)
+	protokół rezerwacji zasobów (RSVP)
+	transmisja grupowa (multicast) w sieci Ethernet

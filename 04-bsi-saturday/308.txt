@@ -1,0 +1,6 @@
+QQ1001
+308.	Mechanizm impersonation systemu Windows:
+	jest wykorzystywany przez polecenie <code>runas</code>
+	pozwala zdefiniować dla użytkownika inną nazwę wyświetlaną (np. imię i nazwisko) niż nazwę konta
+	definiuje 5 dodatkowych poziomów kontroli dostępu do danych i procesów
+	pozwala procesowi użyć chwilowo innego niż bieżący tokenu zabezpieczeń

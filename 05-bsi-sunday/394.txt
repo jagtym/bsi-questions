@@ -1,0 +1,6 @@
+QQ0010
+394.	Autentyczność kluczy publicznych PGP jest weryfikowana:
+	poprzez PKI (infrastrukturę klucza publicznego)
+	przez pozyskanie certyfikatu klucza publicznego
+	metodą Web of Trust, w której użytkownicy PGP podpisują sobie wzajemnie klucze
+	poprzez weryfikację podpisu urzędu CA pod kluczem użytkownika

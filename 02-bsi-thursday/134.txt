@@ -1,0 +1,6 @@
+QQ1100
+134.	Wskaż cechy poprawnie opisujące DNSsec:
+	umożliwia przechowywanie kluczy publicznych podmiotów z domeny
+	stosuje kryptografię asymetryczną do podpisywania rekordów
+	przesyła zapytania i odpowiedzi w tunelu IPsec
+	stosuje kryptografię symetryczna do szyfrowania rekordów

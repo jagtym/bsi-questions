@@ -1,0 +1,6 @@
+QQ1001
+229.	Które z poniższych mechanizmów stosują programy malware w celu kamuflażu swojej obecności
+	opancerzenie (armor)
+	zamaskowane węzły (shadow i-node)
+	fingerprinting
+	polimorfizm

@@ -1,0 +1,10 @@
+QQ00000010
+173.	Prosze wskazać algorytmy wykorzystywane w HMAC:
+	AES
+	SHA-4
+	SSH
+	ElGamal
+	Blowfish
+	Rijndael
+	MD5
+	żadne z powyższych

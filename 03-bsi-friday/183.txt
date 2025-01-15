@@ -1,0 +1,7 @@
+QQ00110
+183.	Co ma na celu publikowanie swojego klucza publicznego PGP?
+	nic nie daje, publikowanie klucza ma na celu tylko usprawnienie mechanizmu wymiany kluczy między użytkownikami
+	uniemożliwienie intruzowi podszycie się pod nasz e-mail
+	umożliwienie zaszyfrowania wiadomości adresowanej do właściciela klucza
+	umożliwienie sprawdzenia autentyczności listu wysłanego przez właściciela klucza
+	umożliwienie odszyfrowania zawartości email wysłanej przez właściciela klucza

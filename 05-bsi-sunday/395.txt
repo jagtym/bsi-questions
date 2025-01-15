@@ -1,0 +1,6 @@
+QQ1110
+395.	Które zdania są prawdziwe w odniesieniu do aktywnego mechanizmu UAC w systemie Windows:
+	jeśli zwykły użytkownik chce wykonać operację wymagającą uprawnień administratora zostanie zapytany o hasło administratora
+	UAC blokuje możliwość instalacji programów przez administratora
+	zmiana istotnych gałęzi rejestru systemu wymaga świadomej reakcji uprawnionego użytkownika
+	UAC chroni przed przypadkowym uruchomieniem potencjalnie niebezpiecznych programów przez użytkownika

@@ -1,0 +1,6 @@
+QQ1100
+298.	Które konfiguracje tuneli obsługuje system OpenVPN:
+	1 do wielu przy uwierzytelnianiu poprzez wspólny klucz
+	1 do 1 przy uwierzytelnianiu poprzez certyfikaty X.509
+	1 do 1 przy uwierzytelnianiu poprzez wspólny klucz
+	1 do wielu przy uwierzytelnianiu poprzez certyfikaty X.509

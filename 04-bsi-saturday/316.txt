@@ -1,0 +1,6 @@
+QQ1110
+316.	Klasa B1 wg TCSEC („Orange Book”) lub rownowazna jej klasa EAL4 wg Common Criteria wymaga m. in.
+	ochrony systemowych obszarow pamieci
+	uwierzytelniania uzytkownikow
+	scislej kontroli dostepu do danych (MAC)
+	szyfrowania plikow

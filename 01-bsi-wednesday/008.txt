@@ -1,0 +1,6 @@
+QQ1000
+8.	Mechanizm two-factor authentication (2FA): [1/1]
+	wymaga użycia 2 oddzielnych operacji (oraz danych) uwierzytelniających
+	dotyczy złożoności hasła i wymaga by nowe hasło różniło się od dotychczasowego na 2 pozycjach
+	to uwierzytelnianie z zaufaną stroną trzecią
+	to uwierzytelnianie metodą zawołanie-odzew

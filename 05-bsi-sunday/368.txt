@@ -1,0 +1,6 @@
+QQ0100
+368.	Jaka usluga jest szczegolnie trudna do filtrowania statycznego?
+	ftp, poniewaz domyslnie serwery dzialaja w trybie pasywnym,
+	ftp, poniewaz domyslnie serwery dzialaja w trybie aktywnym,
+	rlogin, bo costam
+	rlogin, bo drugie costam

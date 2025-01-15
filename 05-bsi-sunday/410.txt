@@ -1,0 +1,6 @@
+QQ0010
+410.	Metoda Diffiego-Hellmana:
+	pozwala stronom komunikacji bezpiecznie ustalić wspólne klucze asymetryczne
+	wymaga szyfrowania negocjacji w celu ochrony przed atakami pasywnymi
+	pozwala stronom komunikacji bezpiecznie ustalić wspólny klucz symetryczny
+	wymaga uwierzytelniania negocjacji w celu ochrony przed atakami aktywnym

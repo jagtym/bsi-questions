@@ -1,0 +1,6 @@
+QQ0011
+62.	Które z poniższych zdarzeń są efektami braku wirtualizacji danego klucza rejestru systemu Windows?
+	operacja zapisu wartości parametrów tego klucza przez proces nie posiadający uprawnienia zapisu kończy się powodzeniem
+	operacja zapisu wartości parametrów tego klucza przez proces posiadający uprawnienie zapisu kończy się błędem
+	operacja zapisu wartości parametrów tego klucza przez proces posiadający uprawnienia zapisu kończy się powodzeniem
+	operacja zapisu wartości parametrów tego klucza przez proces nie posiadający uprawnienia zapisu kończy się błędem

@@ -1,0 +1,6 @@
+QQ0010
+16.	Wskaż możliwe prawidłowe reakcje na wykrycie faktu przepełnienia bufora (w segmencie stosu) umożliwiające zachowanie bezpieczeństwa systemu: [1/1]
+	ponowne zainicjowanie bufora domyślną wartością
+	usunięcie danych wykraczających poza bufor, zanim zostaną odczytane
+	natychmiastowe przerwanie działania procesu
+	zapisanie zaraz za nadmiernymi danymi “kanarka” ostrzegającego o wystąpieniu przepełniania przy próbie odczytu bufora

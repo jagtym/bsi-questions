@@ -1,0 +1,8 @@
+QQ111001
+271.	Która z poniższych usług aplikacyjnych wykorzystuje mechanizm SSO
+	rlogin
+	telnet
+	tcpd
+	xinetd
+	ssh
+	rsh

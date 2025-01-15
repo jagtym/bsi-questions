@@ -1,0 +1,6 @@
+QQ0001
+72.	Agent DRA w systemie Windows to:
+	administrator systemu Windows, któremy przypisano prawo tworzenia strumieni ADS
+	lokalny administrator stacji roboczej w środowisku domenowym mogący robić kopie zapasowe
+	główny administrator domeny (serwera AD)
+	konto pozwalające na dostęp do plików zaszyfrowanych przez EFS

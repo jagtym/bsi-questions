@@ -1,0 +1,6 @@
+QQ0011
+360.	Czy RSBAC to:
+	poprawnie skonfigurowana polityka bezpieczenstwa
+	domyslne uprawnienia systemowe
+	zestaw rozszerzajacy kontrole uprawnien
+	zestaw łat na jadro systemu Linux

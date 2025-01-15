@@ -1,0 +1,6 @@
+QQ0010
+189.	Wadą single-sign-on jest:
+	relacja zaufania między parami hostów w domenie zaufania z wyłączeniem hosta zapewniającego uwierzytelnianie
+	możliwość logowania się tylko na konta systemowe
+	zależność od poprawnego działania uwierzytelniającej maszyny
+	brak relacji zaufania między hostem uwierzytelniającym a hostem usługowym w domenie zaufania

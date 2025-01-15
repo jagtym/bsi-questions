@@ -1,0 +1,6 @@
+QQ1010
+400.	Możliwe metody uwierzytelniania użytkownika w protokole SSH:
+	hasło użytkownika
+	mechanizm TOFU (Trust On First Use)
+	asymetryczne klucze kryptograficzne
+	symetryczne klucze kryptograficzne

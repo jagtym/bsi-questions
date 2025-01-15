@@ -1,0 +1,6 @@
+QQ0001
+194.	Klucz FEK to:
+	klucz asymetryczny
+	klucz prywatny użytkownika
+	klucz publiczny użytkownika
+	klucz symetryczny

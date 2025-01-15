@@ -1,0 +1,6 @@
+QQ0011
+310.	W jakim celu można weksportować certyfikat do formatu PKCS #12:
+	W celu wyekstraktowania klucza do szyfrowania wiadomości
+	W celu wyekstraktowania klucza aby przekazać go drugiej stronie
+	W celu stworzenia kopii zapasowej certyfikatu
+	zaimportować w kliencie pocztowym - ze skryptu z labów

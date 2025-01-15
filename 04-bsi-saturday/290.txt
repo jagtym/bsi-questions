@@ -1,0 +1,6 @@
+QQ1000
+290.	Mechanizm POSIX ACL umożliwia:
+	nadawanie praw do zasobów plikowych poszczególnych użytkownikom i grupom
+	odtwarzanie skasowanych plików pod warunkiem posiadania praca C
+	szyfrowania plików metodą symetryczną
+	automatyczne sumowanie uprawnień użytkownika ze wszystkich grup, do których należy

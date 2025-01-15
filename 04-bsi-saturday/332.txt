@@ -1,0 +1,7 @@
+QQ00100
+332.	Program Vtun dziala:
+	na porcie domyslnym 1045 ale mozna to zmienic
+	na porcie domyslnym 5000 i mozna to zmienic ale trzeba przekompilowac kod programu
+	na domyslnym porcie 5000
+	na porcie domyslnym 1001 mozna to zmienic w pliku konfiguracyjnym vtund.conf
+	na porcie domyslnym 1045 ale mozna to bez problemu zmienic w pliku konfiguracyjnym vtund.conf

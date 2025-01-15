@@ -1,0 +1,9 @@
+QQ0010000
+314.	Czy iptables umożliwia określenie domyślnej polityki w łańcuchu?
+	Tylko w łańcuchach tablicy filter
+	Tylko w predefiniowanych łańcuchach
+	Tak, w każdym łańcuchu
+	tylko w nowo utworzonych lancuchach
+	tak
+	tylko w standardowych lancuchach
+	Nie

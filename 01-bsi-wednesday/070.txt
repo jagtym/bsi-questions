@@ -1,0 +1,6 @@
+QQ0010
+70.	Tunele IPsec: [1/1]
+	stosują protokół TLS do szyfrowania ruchu
+	stosują protokół AH do szyfrowania ruchu
+	stosują protokół ESP do szyfrowania ruchu
+	stosują protokół AH do uwierzytelniania stron tunelu

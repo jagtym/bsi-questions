@@ -1,0 +1,6 @@
+QQ1111
+112.	Wskaż cechy zapory sieciowej zrealizowanej poprzez Komputer-Twierdzę (Bastion Host):
+	dla ruchu z zewnątrz zapora „przykrywa” sobą całą sieć wewnętrzną
+	dla ruchu od wewnątrz zapora „przykrywa” sobą cały świat zewnętrzny
+	w zaporze nie jest realizowany routing
+	komunikacja zachodzi wyłącznie przez usługi proxy

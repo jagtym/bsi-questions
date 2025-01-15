@@ -1,0 +1,6 @@
+QQ1000
+190.	Aby serwer usług w domenie kerberos mogl dzialac wykorzystując uwierzytelniania Single-Sign-On, musi:
+	używać odpowiednio zmodyfikowanych demonów usług, które potrafią rozmawiać z serwerem Kerberos
+	używa zmodyfikowanego stosu IP, który współpracuje z serwerem KDC
+	zapewnia sprzętowe szyfrowanie i generowanie liczb losowych
+	używa specjalnego jądra systemu operacyjnego, wspierającego współpracę z serwerem KDC

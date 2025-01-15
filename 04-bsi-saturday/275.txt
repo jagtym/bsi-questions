@@ -1,0 +1,6 @@
+QQ0111
+275.	Mechanizm User Account Control (UAC) systemu Windows:
+	blokuje konto po zdefiniowanej wcześniej ilości nieudanych prób logowania
+	wprowadza dodatkową formę ochrony konta administracyjnego m.in. przed koniami trojańskimi i złośliwym oprogramowaniem
+	pozwala administratorowi chwilowo skorzystać z pełnego tokenu administracyjnego
+	wirtualizuje dostęp do newralgicznych komponentów systemu plików

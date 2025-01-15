@@ -1,0 +1,6 @@
+QQ0110
+52.	Gdy w poleceniu iptables nie podamy celu reguły, przy pomocy opcji -j (np. -j REJECT), wówczas:
+	po dopasowaniu reguły iptables przerywa przetwarzanie, ale pakiet jest przepuszczany
+	po dopasowaniu reguły iptables przetwarza kolejne reguły?
+	używany jest cel domyślny dla danego łańcucha, tzw. polityka (ustawiana przy pomocy -P)
+	reguła zostanie odrzucona jako błędna, chyba że jest to modyfikacja wcześniej istniejącej reguły (przy pomocy opcji -R), kiedy to zostanie zastosowany taki cel, jaki był ustawiony dotychczas w tej regule

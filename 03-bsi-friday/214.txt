@@ -1,0 +1,6 @@
+QQ1100
+214.	Standard IEEE 802.1x:
+	realizuje autoryzację i kontrolę dostępu do lokalnej infrastruktury sieciowej
+	współpracuje z protokołami takimi jak RADIUS lub TACACS+
+	dotyczy zabezpieczenia poufności
+	dotyczy uprawnień dostępu do zasobów plikowych

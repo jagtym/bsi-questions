@@ -1,0 +1,6 @@
+QQ0100
+393.	Czym różnią się klauzule DROP i REJECT w akcjach reguły iptables?
+	obie odrzucają pakiety, ale REJECT dotyczy tylko łańcucha FORWARD
+	obie odrzucają pakiety, ale DROP zawsze robi to “po cichu”
+	obie odrzucają pakiety, ale DROP powoduje przerwanie przeglądania reguł, a REJECT nie
+	REJECT odrzuca pakiety warunkowo, a DROP bezwarunkowo

@@ -1,0 +1,6 @@
+QQ0011
+321.	Wskaz cechy mechanizmu SYN cookies:
+	pozwala przegladarce na bezpieczna aktualizacje ciasteczek
+	minimalizuje ilosc informacji potrzebnych przegladarce do uwierzytelniania zdalnego dostepu
+	identyfikuje polaczenie wartoscia wpisywana do pola ACK
+	minimalizuje wielkosc zasobow przydzielanych przy odbiorze zadania nawiazania polaczenia

@@ -1,0 +1,5 @@
+QQ010
+330.	Narzedzie Vtun to:
+	samodzielny pakiet niskopoziomowego(dzialajacego na poziomie jadra ) oprogramowania do tworzenia podsieci VPN
+	proste narzedzie do tworzenia polaczen VPN korzystajace tylko z jednego pliku konfiguracyjnego i zestawu narzedzi obecnych w systemie
+	narzedzie dzialajace na poziomie warstwy uzytkownika ( tzw. userland ) pozwalajace tworzyc tylko pojedyncze polaczenia VPN przy uzyciu prostego pliku konfiguracyjnego vtund.

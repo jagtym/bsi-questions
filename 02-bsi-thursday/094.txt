@@ -1,0 +1,7 @@
+QQ11100
+94.	Wskaż cechy filtracji kontekstowej (SPF) realizowanej przez zapory sieciowe:
+	pozwala uniknąć niepotrzebnego sprawdzania reguł dla pakietów powracających w ruchu zweryfikowanym w stronę przeciwną
+	zapora utrzymuje listę aktywnych połączeń
+	dopasowuje pakiety do zapamiętanej historii komunikacji
+	historia komunikacji nie ma wpływu na decyzje zapory
+	pozwala na dynamiczne modyfikacje reguł filtracji

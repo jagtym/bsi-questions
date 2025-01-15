@@ -1,0 +1,5 @@
+QQ100
+201.	Tunel Host-to-host to:
+	połączenie punkt - punkt między dwoma hostami, ale tylko na czas transmisji zaszyfrowanej
+	połaczenie peer-to-peer z rezerwacja pasma na calej
+	połączenie wykorzystujące już zestawione połączenie punkt-punkt dodające tylko szyfrowanie i uwierzytelnianie

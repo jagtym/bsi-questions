@@ -1,0 +1,6 @@
+QQ0011
+250.	Które z wymienionych technik mogą być wykorzystane do uwierzytelniania z hasłami jednorazowymi
+	jednokrotne uwierzytelniane (single sign-on)
+	certyfikacja klucza sesji
+	metoda zawołanie-odzew (challenge-response)
+	synchronizacja czasu

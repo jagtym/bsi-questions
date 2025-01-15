@@ -1,0 +1,6 @@
+QQ0001
+398.	Bezpośrednim efektem operacji eksportu certyfikatu do formatu PKCS#12 jest:
+	przekazanie klucza publicznego innemu użytkownikowi w celu umożliwienia mu wysłania do nas zaszyfrowanej poczty
+	wyodrębnienie z certyfikatu klucza publicznego w celu dołączenia go do kryptogramu przesyłanej wiadomości
+	wyodrębnienie z certyfikatu klucza prywatnego w celu dołączenia go do wykonanego podpisu elektronicznego wiadomości
+	utworzenie kopii zapasowej klucza prywatnego i publicznego w pliku

@@ -1,0 +1,6 @@
+QQ0111
+233.	Wskaż możliwe środki ochronne przed atakami przepełnienia bufora
+	niewykonywany segment kodu
+	niewykonywany segment stosu
+	kontrola zakresu danych globalnych programu na etapie wykonania
+	kontrola zakresu danych lokalnych funkcji na etapie kompilacji

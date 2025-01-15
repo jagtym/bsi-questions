@@ -1,0 +1,6 @@
+QQ0001
+325.	Zapora sieciowa wbudowana w Ms Win XP sp2:
+	jest typu stateless
+	jest jedyna mozliwa do zastosowania zapora sieciowa w systemie
+	pozwala powiadamiac uzytkownika droga mailowa o zagrozeniach
+	jest zapora typu stateful

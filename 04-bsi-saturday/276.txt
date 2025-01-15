@@ -1,0 +1,7 @@
+QQ11001
+276.	Klucz szyfrowania, którym zaszyfrowana została treść pliku (standardowym mechanizmem EFS z systemu NTFS)
+	znajduje się w certyfikacie właściciela pliku
+	znajduje się w certyfikacie każdego agenta DRA w systemie operacyjnym
+	jest zapisany wewnątrz zaszyfrowanego pliku
+	znajduje się w certyfikacie administratora systemu operacyjnego
+	jest przechowywany wraz z zaszyfrowanym plikiem

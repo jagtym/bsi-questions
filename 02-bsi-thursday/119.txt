@@ -1,0 +1,6 @@
+QQ0010
+119.	Wskaż cechy PKI:
+	certyfikaty kluczy prywatnych są składowane w repozytoriach takich jak np. DNSsec
+	certyfikaty kluczy są wzajemnie wystawiane przez innych użytkowników
+	unieważnienia certyfikatu klucza ma również postać certyfikatu /+1
+	do zweryfikowania certyfikatu klucza publicznego użytkownika potrzebny jest certyfikat głównego urzędu (RootCA)

@@ -1,0 +1,6 @@
+QQ1000
+64.	Jak modyfikowana jest maska uprawnień POSIX ACL przy zmianie uprawnień do danego pliku:
+	nowa maska jest alternatywą bitową uprawnień nazwanych użytkowników, grupy i nazwanych grup
+	nowa maska jest alternatywą bitową starej maski i wszystkich uprawnień nowo nadanych przez setfacl
+	nowa maska jest iloczynem logicznym starej maski i wszystkich uprawnień nowo nadanych przez setfacl
+	nowa maska jest alternatywą bitową wszystkich uprawnień danego pliku (właściciela, grupy, pozostałych, nazwanych użytkowników, nazwanych grup)

@@ -1,0 +1,6 @@
+QQ0010
+213.	Statyczne reguły filtracji (filtracja bezstanowa) nie radzą sobie z precyzyjna filtracja ruchu:
+	HTTP, gdy serwer pracuje w trybie bezstanowym
+	HTTP, gdy serwer pracuje w trybie stanowym
+	FTP, gdy serwer pracuje w trybie aktywnym
+	FTP, gdy serwer pracuje w trybie pasywnym

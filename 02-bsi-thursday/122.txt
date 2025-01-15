@@ -1,0 +1,7 @@
+QQ11110
+122.	Standard IEEE 802.1X:
+	pozwala na wykorzystanie certyfikatów X.509 do realizacji swoich zadań
+	pozwala uwierzytelniać stanowiska sieciowe przy dostępie do sieci lokalnej
+	oferuje wymianę kluczy w sieci WiFi przy wykorzystaniu zarówno haseł jak i certyfikatów
+	umożliwia scentralizowane uwierzytelnianie wielu punktów zdalnego dostępu
+	podnosi dostępność poprzez redundantne rozproszenie danych uwierzytelniających do wielu punktów dostępowych

@@ -1,0 +1,6 @@
+QQ1010
+10.	Komputer-Twierdza: [1/1]
+	dopuszcza komunikację przechodzącą tylko przez usługi proxy
+	to rodzaj zapory sieciowej z filtracją pakietów i modułem IDS
+	jest implementacją zapory typu Application Layer Gateway
+	pełni rolę zaufanej strony trzeciej w domenie Kerberos

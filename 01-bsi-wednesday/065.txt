@@ -1,0 +1,6 @@
+QQ0010
+65.	Czyje hasło wymagane jest przy uruchomieniu polecenia sudo?
+	zawsze administratora systemu
+	zawsze użytkownika wywołujacego dane polecenie
+	w zależności od ustawień w polityce sudoers
+	zawsze użytkownika z uprawnieniami którego chcemy wykonać dane polecenie

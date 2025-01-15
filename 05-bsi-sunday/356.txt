@@ -1,0 +1,6 @@
+QQ0010
+356.	Czy system MS Windows korzysta z serwera Kerberos?
+	nigdy
+	tylko w starszych systemach (95, 98)
+	zawsze
+	jesli zostanie odpowiednio skonfigurowany

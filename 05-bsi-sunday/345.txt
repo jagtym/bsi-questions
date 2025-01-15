@@ -1,0 +1,6 @@
+QQ1100
+345.	Czy istnieje mozliwosc zmiany portu docelowego i adresu docelowego na adres localhost i dowolny inny port?
+	tak
+	tylko, jesli okreslimy protokol oraz oryginalny port docelowy
+	tylko poprzez dodatkowy modul
+	nie

@@ -1,0 +1,6 @@
+QQ1111
+407.	W jak można udostępnić swój klucz publiczny PGP innemu użytkownikowi:
+	przekazać osobiście na nośniku wymiennym
+	umieścić na swojej stronie www
+	wysłać pocztą elektroniczną
+	umieścić w sieciowym repozytorium kluczy (tzw. serwerze kluczy)

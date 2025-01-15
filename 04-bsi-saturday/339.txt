@@ -1,0 +1,6 @@
+QQ0100
+339.	$ssh host Enter passphrase for key '/home/junior/.ssh/id_dsa': Wpis passphrase to:
+	Haslo, ktorym jest zaszyfrowany klucz publiczny
+	haslo, ktorym jest zaszyfrowany klucz prywatny
+	klucz, ktorym bedzie szyfrowana transmisja
+	haslo wymagane przez zdalny host, aby zostac zalogowanym

@@ -1,0 +1,6 @@
+QQ1000
+257.	Lokalna zapora sieciowa systemu Windows na stanowisku X zablokowała możliwość zdalnego odpytywania o dostępność X przy pomocy narzędzia ping, pozostawiając jednak możliwość zdalnego dostępu do serwera www w tym systemie. Mogła to osiągnąć poprzez:
+	wyłączenie obsługi przychodzących komunikatów ICMP echo
+	odrzucanie całego ruchu ICMP
+	zablokowanie komunikacji z siecią dla programu ping
+	wyłączenie ruchu IP na wszystkich interfejsach, ale pozostawienie dostępu do wskazanych portów TCP

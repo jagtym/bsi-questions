@@ -1,0 +1,6 @@
+QQ1100
+414.	W model uwierzytelniania z udziałem zaufanej trzeciej strony, do zadań tej trzeciej strony należy:
+	pobieranie danych uwierzytelniających od strony uwierzytelnionej
+	wystawienie poświadczenia uwierzytelnienia stronie uwierzytelnionej
+	przekazane danych uwierzytelniających strony uwierzytelnionej docelowym serwerowi
+	przekazane danych uwierzytelniających stronie uwierzytelnionej

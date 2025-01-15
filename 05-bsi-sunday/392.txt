@@ -1,0 +1,6 @@
+QQ0101
+392.	Mechanizm sudo umożliwia:
+	miękkie (soft) zmniejszenie limitów użytkownika
+	uruchamianie poleceń z uprawnieniami administratora po podaniu własnego (domyślnie) hasła
+	miękkie (soft) zwiększenie limitów użytkownika
+	uruchamianie wybranych aplikacji z uprawnieniami innych użytkowników

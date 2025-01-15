@@ -1,0 +1,6 @@
+QQ1000
+19.	Wskaż prawdziwe stwierdzenia dotyczące bramy aplikacyjnej Application Layer Gateway: [1/1]
+	pośredniczy w komunikacji wyłącznie na poziomie warstwy aplikacyjnej
+	optymalizuje ruch stosując filtrację kontekstową na podstawie tablicy aktywnych połączeń
+	wymaga działającego poprawnie routingu między interfejsami sieciowymi
+	filtruje pakiety na poziomie wszystkich 3 warstw: sieciowej, transportowej i aplikacyjnej

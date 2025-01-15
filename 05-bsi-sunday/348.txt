@@ -1,0 +1,6 @@
+QQ1001
+348.	Opcja spawn w pliku hosts.deny:
+	pozwala tworzyc kolejne procesy TCP wrapper
+	jest wykorzystywana tylko w pliku hosts.allow
+	nie jest wykorzystywana
+	pozwala odeslac do nadawcy specjalnie spreparowana wiadomosc w odpowiedzi na zadanie

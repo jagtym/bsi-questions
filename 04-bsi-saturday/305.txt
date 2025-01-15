@@ -1,0 +1,6 @@
+QQ0001
+305.	Czy maska uprawnień POSIX ACL jest definiowana dla każdego użytkownika osobno?
+	tak, z priorytetem maski domyślnej (logiczny AND)
+	nie, maskę można zdefiniować tylko dla grup użytkowników
+	tak, jeśli jawnie wskażemy nazwę użytkownika
+	nie, istnieje tylko jedna obowiązująca maska

@@ -1,0 +1,6 @@
+QQ1100
+226.	Relacja zaufania w uwierzytelnianiu w środowisku sieciowym
+	jest wykorzystywana zarówno przez systemy Unix, jak i MS Windows
+	może być jednostronna lub dwustronna
+	nie jest przechodnia
+	jest realizacją koncepcji SSO

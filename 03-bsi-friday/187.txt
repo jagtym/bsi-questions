@@ -1,0 +1,6 @@
+QQ0100
+187.	LMhash to:
+	hasło administratora systemu zapisane w sposób jawny
+	hasła użytkowników w postaci skrótów (hashy) wykorzystywane przez Lan Managera
+	Lan Manager hash służący do identyfikacji systemu w sieci lokalnej
+	hash numeru seryjnego systemu Ms Windows

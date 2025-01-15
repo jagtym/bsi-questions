@@ -1,0 +1,6 @@
+QQ1001
+87.	Separację środowiska wykonania poprzez wirtualizację (jądra) systemu operacyjnego oferuje:
+	Trusted Execution Environment (TEE)
+	funkcja systemowa chroot()
+	Address Space Layout Randomization (ASLR)
+	Windows Virtualization-Based Security (VBS)

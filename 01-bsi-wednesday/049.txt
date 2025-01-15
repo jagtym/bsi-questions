@@ -1,0 +1,6 @@
+QQ0110
+49.	Strumień ADS:
+	jest częścią nagłówka pliku dołączaną zawsze przez system Windows podczas operacji pakowania do archiwum lub udostępniania w sieci
+	jest wykorzystywany przez mechanizm informujący o stopniu zaufania do pliku (określający jego pochodzenie przez wpis ZoneId)
+	pozwala związać z dowolnym plikiem lub katalogiem dowolne (zarówno tekstowe, jak i binarne) dane
+	jest wykorzystywany przez procesy w systemie Windows do informowania o błędach wykonania (tzw. metainformacje)

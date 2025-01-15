@@ -1,0 +1,7 @@
+QQ10000
+362.	Co to jest challenge-response?
+	mechanizm pozwalajacy uwierzytelniac sie bez potrzeby przesylania tajnego klucza
+	przestarzala forma uwierzytelniania stosowana w ssh
+	nie istnieje cos takiego
+	mechanizm wykorzystywany w kryptografii dyskretnej
+	silny mechanizm szyfrowania wykorzystujacy kryptografie klucza publicznego

@@ -1,0 +1,6 @@
+QQ0001
+138.	Atak na usługę www realizowany poprzez wymuszenie wykonania w przeglądarce kodu pochodzącego z lokalizacji innej niż pobrana strona to:
+	same origin forgery
+	command injection
+	SQL injection
+	cross site scripting

@@ -1,0 +1,6 @@
+QQ0111
+67.	UStawienia protokołu ESP w systemie Windows umożliwiają:
+	przesyłanie niezaszyfrowanego pakietu zabezpieczonego przed modyfikacją przy pomocy kryptograficznych funkcji mieszających
+	komunikację w trybie transportowym (bezpośrednim, host-to-host)
+	komunikację w trybie tunelowym (net-to-net)
+	ustanowienie bezpiecznego kanału do zarządzania asocjacją IPsec

@@ -1,0 +1,6 @@
+QQ0001
+279.	Przy kopiowaniu zaszyfrowanego pliku z NTFS na partycję FAT:
+	plik będzie możliwy do odczytu tylko na systemie, na którym został zaszyfrowany
+	plik zostaje odszyfrowany
+	plik będzie później wymagał ręcznego odszyfrowania
+	plik może być skopiowany tylko przez użytkownika "Data Recovery Agent"

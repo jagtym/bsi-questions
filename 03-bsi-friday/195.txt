@@ -1,0 +1,6 @@
+QQ0010
+195.	Połączenie pasywne ftp to:
+	jeden z czterech rodzajów połączeń jakie moze nawiazac klient tj. połączenie danych, połączenie sterujące, połączenie aktywne, połączenie pasywne
+	specjalny rodzaj szybkich połączeń przeznaczony do wysyłania dużych porcji danych do klientów
+	połączenie, w którym klient informuje serwer, aby to on określił port a klient połączy się z tym portem i pobierze dane
+	specjalny rodzaj połączeń dzięki którym możliwe jest połączenie w sytuacji gdy klient i serwer znajduja sie za firewallem realizujacym SNAT

@@ -1,0 +1,8 @@
+QQ000010
+284.	Czego nie można ograniczyć za pomocą komendy ulimit (mechanizmu limitów zasobowych)?
+	wielkości pliku zrzutu pamięci
+	ilości otwartych deskryptorów
+	ilości tworzonych procesów
+	sumy zajmowanej przestrzeni dyskowej przez pliki
+	ilości zalogowanych równocześnie użytkowników
+	ilości wykorzystanej pamięci operacyjnej przez proces

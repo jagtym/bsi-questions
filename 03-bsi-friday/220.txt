@@ -1,0 +1,6 @@
+QQ0001
+220.	Który protokół umożliwia transparentna dla stacji sieciowej obsługę uszkodzenia jej routera domyślnego?
+	RIP (Routing Information Protocol)
+	TRP (Transparent Router Protocol)
+	LSP (Link State Protocol)
+	HSRP (Hot Standby Routing Protocol)

@@ -1,0 +1,8 @@
+QQ011011
+91.	Które z poniższych protokołów służą realizacji kryptograficznych tuneli wirtualnych z ochroną poufności:
+	PEM
+	ESP
+	TLS
+	S/MIME
+	IPsec
+	SSL

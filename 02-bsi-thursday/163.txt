@@ -1,0 +1,7 @@
+QQ01001
+163.	Możliwości uwierzytelniania przy użyciu SSH to:
+	certyfikaty SSL X.509
+	para login, hasło naszego konta na zdalnym hoście
+	samo hasło naszego konta na zdalnym hoście
+	klucz publiczny, używany przy szyfrowaniu symetrycznym
+	trójka login, klucz publiczny i klucz prywatny

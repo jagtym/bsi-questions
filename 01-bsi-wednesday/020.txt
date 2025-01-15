@@ -1,0 +1,6 @@
+QQ1011
+20.	Które z poniższych algorytmów kryptograficznych mogą w praktyce zostać wykorzystane do zaszyfrowania treści listu e-mail: [1/1]
+	AES
+	RSA
+	Twofish
+	Blowfish

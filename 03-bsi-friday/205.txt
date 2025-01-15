@@ -1,0 +1,6 @@
+QQ0001
+205.	Mechanizm SSO pozwala na
+	zapobieganie atakom typu XSS
+	zapobieganie atakom typu IP spoofing poprzez jawne podanie adresów IP w konfiguracji tego mechanizmu
+	szyfrowanie ruchu sieciowego między zaufanymi hostami
+	tworzenie relacji zaufania między hostami

@@ -1,0 +1,6 @@
+QQ0101
+261.	Kto może nadawać/modyfikować uprawnienia POSIX ACL danego obiektu w systemie plików:
+	właściciel obiektu, ale pod warunkiem, że posiada prawo 'w'
+	właściciel obiektu, niezależnie od posiadania prawa 'w'
+	dowolny użytkownik posiadający prawo modyfikacji pliku
+	administrator (root)

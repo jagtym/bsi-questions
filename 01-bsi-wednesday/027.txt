@@ -1,0 +1,5 @@
+QQ010
+27.	Które z poniższych cech dotyczą szyfrowania asymetrycznego: [1/1]
+	odporność na kolizje
+	gwarancja autentyczności i niezaprzeczalności komunikacji
+	większa niż dla algorytmów symetrycznych efektywność

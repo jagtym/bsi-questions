@@ -1,0 +1,6 @@
+QQ0100
+85.	Wersja 3DES-EDE jest wzmocnieniem algorytmu kryptograficznego DES osiągniętym poprzez:
+	trzystopniowe sprawdzenie losowości doboru klucza
+	trzykrotne użycie algorytmu DES w trybie szyfrowania, deszyfrowania i ponownie szyfrowania
+	trzykrotne zastosowanie konwencji jednokierunkowej Electronic Data Exchange
+	podział wyniku szyfrowania na 3 porcje różnej długości wg standardu electronic Data Exchange

@@ -1,0 +1,6 @@
+QQ0100
+409.	Które z wymienionych poniżej mechanizmów wspomagają wykrywanie podsłuchu w sieci:
+	802.1X
+	ARP
+	802.11X
+	ICMP echo

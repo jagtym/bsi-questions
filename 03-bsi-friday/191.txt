@@ -1,0 +1,6 @@
+QQ0010
+191.	Nazwa domenowa komputera a nazwa domeny kerberos:
+	musi być różna
+	musi być identyczna
+	zaleca się, aby była identyczna
+	zaleca się, aby byla rozna

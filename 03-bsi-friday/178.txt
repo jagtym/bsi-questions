@@ -1,0 +1,9 @@
+QQ0001000
+178.	Do szyfrów niesymetrycznych zaliczamy:
+	MD4
+	Rijnadael
+	Blowfish
+	ElGamal
+	MD5
+	DES
+	żadne z powyższych

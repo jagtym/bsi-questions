@@ -1,0 +1,6 @@
+QQ0100
+381.	Które stwierdzenia najlepiej opisują mechanizm Bypass Traverse Checking:
+	pozwala na wyświetlanie zawartości katalogu, do którego użytkownik nie ma przyznanego dostępu, ale ma dostęp do któregokolwiek pliku wewnątrz
+	pozwala na ominięcie sprawdzania uprawnień do katalogów na ścieżce do pliku, do którego użytkownik ma przyznany dostęp
+	pozwala na zestawianie tunelu IPsec w sieci wykorzystującej NAT (NAT-T)
+	pozwala na dostęp do udziałów sieciowych bez konieczności posiadania konta w zdalnym systemie

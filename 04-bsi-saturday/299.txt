@@ -1,0 +1,6 @@
+QQ1010
+299.	Wskaż elementy konfiguracji klienta ssh niezbędne do uwierzytelnienia bez konieczności interakcji z użytkownikiem:
+	klucz publiczny użytkownika musi zostać dopisany do pliku authorized_keys w węźle docelowym
+	klucz prywatny użytkownika musi zostać dopisany do pliku authorized_keys w węźle docelowym
+	w lokalnym pliku known_hosts zapisany musi być klucz publiczny docelowego węzła
+	w lokalnym katalogu .ssh znajdować się musi klucz prywatny docelowego węzła

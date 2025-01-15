@@ -1,0 +1,7 @@
+QQ01000
+259.	Zasoby systemu operacyjnego MS Windows udostępnione poprzez SMB:
+	mogą mieć ograniczony dostęp do odczytu i/lub zapisu tylko dla wskazanych użytkowników
+	nazywa się udziałami
+	nazywa się portami
+	przy dostępie zdalnym zawsze wymagane jest logowanie (podawanie hasła)
+	tylko użytkownicy, którzy posiadają lokalne konto w systemie operacyjnym mogą uzyskać zdalny dostęp do zasobu

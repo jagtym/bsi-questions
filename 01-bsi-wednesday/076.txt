@@ -1,0 +1,6 @@
+QQ0100
+76.	Cechą single-sign-on jest:
+	stosowanie funkcji skrótu w celu uzyskania podpisu cyfrowego
+	jednokrotne uwierzytelnianie użytkownika sieci
+	podpisywanie każdego pliku innym kluczem
+	szyfrowanie sesji przy pomocy jednorazowego klucza

@@ -1,0 +1,6 @@
+QQ0100
+196.	Połączenie aktywne ftp to:
+	jeden z czterech rodzajów połączeń jakie moze nawiazac klient tj. połączenie danych, połączenie sterujące, połączenie aktywne, połączenie pasywne
+	sytuacja, w której serwer ftp tworzy połączenie do klienta na losowy wybrany port przez klienta, aby przesłać żądany plik
+	sytuacja w której specjalnie skonfigurowany serwer ftp potrafi przyjmować połączenia gdy sam znajduje się za firewallem realizującym usługę SNAT
+	sytuacja w której przychodzące połączenie od serwera ftp do klienta ftp jest przekierowywane na firewallu do klienta znajdującego się w sieci lokalnej

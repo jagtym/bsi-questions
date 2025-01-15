@@ -1,0 +1,8 @@
+QQ001100
+327.	Ktore polecenie bedzie poprawne, dla ustalenia DNAT (wybierz 2 odpowiedzi)?
+	iptables -t nat -A FORWARD -d 150.254.17.3 -i eth- -j DNAT --to 192.168.1.1
+	iptables -t nat -A PREROUTING -d 150.254.17.3 -i eth0 -j NAT --to 192.168.1.1
+	iptables -t nat -A PREROUTING -i eth0 -j SAME --to 150.254.17.2
+	iptables -t nat -A PREROUTING -d 150.254.17.3 -i eth0 -j DNAT --to 192.168.1.1
+	iptables -t nat -A POSTROUTING -d 150.254.17.3 -i eth0 -j DNAT --to 192.168.1.1
+	iptables -t nat -A POSTROUTING -o eth0 -j SAME --to 150.254.17.2

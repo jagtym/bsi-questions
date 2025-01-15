@@ -1,0 +1,6 @@
+QQ0100
+307.	Szyfrowanie symetryczne plików mechanizmem EFS systemu NTFS
+	może być realizowane po zainstalowaniu dodatkowego oprogramowania DRA
+	może być realizowane pod warunkiem posiadania przez użytkownika certyfikatu klucza publicznego
+	szyfruje pliki użytkownika jego kluczem prywatnym
+	nie jest realizowane przez system operacyjny starszy niż Windows 10

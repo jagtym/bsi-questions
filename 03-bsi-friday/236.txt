@@ -1,0 +1,6 @@
+QQ1000
+236.	Która zasada realizacji zabezpieczeń wymaga konsekwentnego zastosowania odpowiedniego mechanizmu ochrony wobec wszystkich wykorzystywanych protokołów aplikacyjnych
+	spójności poziomej
+	spójności pionowej
+	naturalnego styku
+	obligatoryjnej kontroli dostępu

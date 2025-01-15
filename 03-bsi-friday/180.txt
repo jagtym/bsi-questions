@@ -1,0 +1,6 @@
+QQ1000
+180.	Jaki mechanizm może wykorzystać administrator do dynamicznego uaktywnienia specjalnie przygotowanych reguł filtracji umożliwiających obejście ograniczeń narzuconych na normalny ruch sieciowy?
+	zamek-i-klucz
+	dynamiczny skaner portów
+	sniffer dynamiczny
+	NIDS lub HIPS

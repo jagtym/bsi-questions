@@ -1,0 +1,6 @@
+QQ1001
+40.	Polecenie ulimit: [1/1]
+	decyduje o tym czy mogą być tworzone zrzuty przestrzeni adresowej (obrazy) procesów
+	podaje bieżące ograniczenia hard i soft, ale pozwala zmienić tylko soft
+	podaje bieżące ograniczenia hard i soft, ale nie pozwala ich zmieniać
+	pozwala zmienić oba rodzaje limitów: i hard, i soft

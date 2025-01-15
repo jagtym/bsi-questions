@@ -1,0 +1,6 @@
+QQ1001
+48.	Wykorzystanie TCP Wrappera do ochrony określonej usługi jest możliwe:
+	jeśli program serwera usługi korzysta z biblioteki libwrap.so i sam czyta politykę TCP Wrappera
+	automatycznie po definicji polityki (host_access), bowiem TCP Wrapper jest zintegrowany z systemem operacyjnym
+	w przypadku przekazania nawiązywanego przez klienta usługi połączenia do demona TCP Wrappera zamiast do serwera obsługującego tę usługę
+	dopiero po skonfigurowaniu iptables do przekierowania ruchu na port nasłuchującego superserwera xinetd?

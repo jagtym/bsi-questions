@@ -1,0 +1,6 @@
+QQ0100
+346.	W jaki sposob program OpenVPN bedzie wiedzial, gdzie znajduje sie drugi koniec tunelu VPN
+	OpenVPN w sposob interaktywny poprosi uzytkownika o podanie adresu IP i numeru portu
+	nalezy wpisac odpowiednia opcje w pliku konfiguracyjnym
+	OpenVPN wysle zapytanie do najblizszego serwera VPN
+	OpenVPN odczytuje zawartosc zdalnej tablicy routingu i pobiera ta informacje

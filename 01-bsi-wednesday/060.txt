@@ -1,0 +1,6 @@
+QQ1101
+60.	Program SSH można wykorzystać m.in. do: [0.7/1]
+	stworzenia dynamicznego proxy aplikacyjnego
+	przekierowywania portów zdalnego serwera do maszyny lokalnej (klienta)
+	stworzenia proxy www wyłącznie dla protokołu HTTPS
+	przekierowywania portów maszyny lokalnej (klienta) do zdalnego serwera

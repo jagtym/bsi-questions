@@ -1,0 +1,8 @@
+QQ001001
+361.	Pre-shared key to
+	przestarzaly mechanizm sluzacy do logowania sie na zdalnego hosta bez podawania hasla
+	cos takiego nie istnieje
+	prosty mechanizm pozwalajacy szyfrowac i uwierzytelniac strony za pomoca jednego klucza
+	silny mechanizm uwierzytelniania wykorzystujacy generowany losowo po obu stronach klucz
+	silny mechanizm szyfrowania wykorzystujacy certyfikaty SSL do generacji losowego klucza sesyjnego
+	jest to przyklad kryptografii symetrycznej

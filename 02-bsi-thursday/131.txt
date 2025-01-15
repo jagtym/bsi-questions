@@ -1,0 +1,7 @@
+QQ10001
+131.	Wskaż funkcje biblioteczne odpowiedzialne za podatność na atak przepełnienia bufora
+	strcpy()
+	strncpy()
+	execv()
+	shellcode()
+	gets()

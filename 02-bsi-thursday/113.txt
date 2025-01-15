@@ -1,0 +1,12 @@
+QQ0100101011
+113.	Funkcja systemowa chroot()
+	oferuje kontrolę nad komunikacją sieciową
+	nie oferuje kontroli nad komunikacją sieciową
+	jest wykorzystywana przez narzędzie sudo do zmiany aktualnych uprawnień procesu
+	służy do chwilowego przeniesienia administratora na wybranego użytkownika
+	ogranicza aplikacji dostęp do systemu plików
+	chroni system przed atakami DoS
+	jest jednym z mechanizmów tworzenia piaskownicy
+	pozwala wykonać pojedyncze polecenia administracyjne administracyjne bez weryfikacji hasła
+	wymaga powielania plików niezbędnych dla poprawnego działania aplikacji
+	pozwala wielokrotnie skorzystać z uprawnień administratora bez weryfikacji hasła przez ustalony czas k) ogranicza procesom dostępność systemu plików

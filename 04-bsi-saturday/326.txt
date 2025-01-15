@@ -1,0 +1,8 @@
+QQ100001
+326.	W jaki sposob mozna utworzyc wiele polaczen z danego hosta za pomoca programu OpenVPN?
+	nalezy powtorzyc wpisanie opcji: remote tyle razy ile polaczen VPN mamy utworzyc
+	nalezy uruchomic program OpenVPN z przelacznikiem: --force-multi-instance, wymuszajac w ten sposob uruchomienie wielu procesow programu OpenVPN do obslugi wielu jednoczesnych polaczen vpn
+	nie ma takiej mozliwosci
+	nalezy uruchomic program OpenVPN z wieloma plikami konfiguracyjnymi, kazdy plik definiuje jedno polaczenie
+	nalezy wykorzystac opcje --mode server ale tylko dla polaczen z zastosowaniem certyfikatow SSL
+	nalezy uruchomic kolejne instancje programu OpenVPN wraz z osobnymi plikami konfiguracyjnymi

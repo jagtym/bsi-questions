@@ -1,0 +1,6 @@
+QQ0011
+117.	Metoda Diffiego-Hellmana:
+	generuje programowo hasła SSO
+	realizuje uwierzytelnianie metodą haseł jednorazowych
+	wykorzystuje ideę asymetrycznej pary kluczy (prywatny – publiczny)
+	pozwala wygenerować symetryczny klucz sesji

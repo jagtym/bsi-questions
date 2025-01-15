@@ -1,0 +1,6 @@
+QQ1001
+137.	Wskaż zagrożenie bezpieczeństwa związane z fragmentacją datagramów w protokole IP?
+	scalanie fragmentów perfidnie przygotowanych może powodować nieprzewidziane efekty
+	fragmentacja uniemożliwia stosowanie AH IPsec
+	fragmentacja uniemożliwia stosowanie ESP IPsec
+	fragmentacja utrudnia skuteczną filtrację pakietów

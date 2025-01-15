@@ -1,0 +1,6 @@
+QQ0010
+135.	Klucze w szyfrowaniu symetrycznym:
+	mogą być publicznie dostępne pod warunkiem certyfikacji
+	zapewniają autentyczność i niezaprzeczalność pod warunkiem zachowania tajności klucza
+	zawsze powinny być znane tylko komunikującym się stronom
+	wymagają losowego wyboru dużych liczb pierwszych

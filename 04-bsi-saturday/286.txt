@@ -1,0 +1,6 @@
+QQ0110
+286.	Mechanizm sudo:
+	zawsze wymaga podania hasła docelowego użytkownika
+	można tak skonfigurować by wymagał podania hasła bieżącego użytkownika
+	można tak skonfigurować by nie wymagał podania hasła docelowego użytkownika
+	nigdy nie wymaga podania hasła docelowego użytkownika

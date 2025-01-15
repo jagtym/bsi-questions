@@ -1,0 +1,6 @@
+QQ0100
+25.	Pewna zapora sieciowa filtrująca pakiety realizuje jednocześnie funkcje NAT. Które opisy pasują do takiej zapory:
+	filtracja DNAT może być dokonywana dla pakietów przechodzących przez zaporę niezależnie od kierunku
+	translacja DNAT musi być dokonana przed routingiem pakietu aby pozycje tablicy routingu mogły być prawidłowo dopasowane
+	translacja DNAT musi być dokonana przed filtracją pakietu na interfejsie wejściowym, aby reguły łańcucha wejściowego mogły być prawidłowo dopasowane
+	translacja SNAT musi być dokonana przed filtracją kontekstową na interfejsie wyjściowym, aby pakiet znalazł prawidłowe dopasowanie do tablicy aktywnych połączeń

@@ -1,0 +1,6 @@
+QQ0010
+84.	Funkcja skrótu SHA-3 różni się od SHA-2:
+	ograniczeniami eksportowymi
+	posiadaniem strumieniowego trybu pracy
+	odpornością na ataki Length extension
+	użyciem asymetrycznego schematu szyfrowania

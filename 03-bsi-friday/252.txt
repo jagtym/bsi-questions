@@ -1,0 +1,6 @@
+QQ0011
+252.	Jakie funkcje moga pelnic systemy HIPS?
+	sondowanie usług (port enumeration)
+	zamek-i-klucz
+	monitor antywirusowy
+	ochrona przed atakami DoS

@@ -1,0 +1,6 @@
+QQ1000
+116.	Który angielski termin określa wykorzystanie do ataku znanych luk w systemie atakowanym:
+	exploiting
+	eavesdropping
+	masquerading
+	tampering

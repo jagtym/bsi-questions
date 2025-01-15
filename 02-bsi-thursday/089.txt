@@ -1,0 +1,6 @@
+QQ0110
+89.	Określ jakie potencjalne zagrożenia dla bezpieczeństwa niesie funkcja CreateRemotethread():
+	wywołanie zdalnych procedur (RPC) bez kontroli jądra zdalnego systemu operacyjnego
+	wykonanie nieautoryzowanych operacji podszywając się pod autoryzowany proces (obejście autoryzacji)
+	wstrzyknięcie złośliwego kodu do przestrzeni adresowej innego procesu w systemie operacyjnym
+	nie uwierzytelniony dostęp do komunikacji sieciowej poniżej warstwy transportowej

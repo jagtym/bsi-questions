@@ -1,0 +1,6 @@
+QQ1110
+86.	Własność Perfect Forward Secrecy w przypadku generowania kluczy kryptograficznych:
+	wymaga stosowania każdego klucza głównego (master) tylko jeden raz
+	ogranicza skutki znalezienia klucza sesji jedynie do części komunikacji
+	każdy klucz sesji generowany jest z innego klucza głównego (master)
+	stosuje różne klucze sesji do szyfrowania komunikacji w przeciwnych kierunkach

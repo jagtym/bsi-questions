@@ -1,0 +1,6 @@
+QQ0100
+141.	Mechanizm ACL:
+	oferuje niezaprzeczalność nadania wiadomości
+	jest narzędziem kontroli dostępu do zasobów
+	oferuje niezaprzeczalność odbioru wiadomości
+	wyróżnia systemy MAC od DAC

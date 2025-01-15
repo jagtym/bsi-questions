@@ -1,0 +1,8 @@
+QQ011000
+355.	user::rw- user:inf44444:r-x group::rwx group:student:rwx mask::rwx other::--- Oznacza:
+	grupa "student" nie moze skasowac pliku
+	uzytkownik "inf44444" moze wykonac plik
+	grupa "student" moze skasowac katalog
+	wlasciciel moze wykonac plik
+	maska blokuje wszystkie uprawnienia
+	grupa domyslna (wlasciciela) nie moze zmodyfikowac pliku

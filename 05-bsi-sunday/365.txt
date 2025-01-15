@@ -1,0 +1,6 @@
+QQ1000
+365.	W RSBAC, czy mozna zmienic uprawnienia do katalogu dla programu podczas jego dzialania?
+	jesli program posiada taka mozliwosc (programista uwzglednil taka opcje)
+	nie jest to okreslone
+	istnieja takie mozliwosci
+	nie

@@ -1,0 +1,6 @@
+QQ0010
+285.	Asocjacja bezpieczeństwa (ang. Security Association) IPsec w systemie Windows:
+	to protokół zestawiania tunelu IPsec, w którym negocjowane są parametry tunelu
+	może być monitorowana przez systemową zaporę sieciową
+	obejmuje zestaw parametrów niezbędnych do komunikacji w tunelu IPsec
+	to polityka IPsec określająca filtry pakietów poddawanych tunelowaniu

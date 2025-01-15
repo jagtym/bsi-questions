@@ -1,0 +1,6 @@
+QQ0100
+306.	Przesłanie i zweryfikowanie podpisanego cyfrowo listu w standardzie S/MIME od użytkownika A do użytkownika B wymaga:
+	pozyskania przez użytkownika B tajnego klucza symetrycznego od A
+	pozyskania przez B certyfikatu klucza publicznego A
+	pozyskania certyfikatów kluczy publicznych wzajemnie przez obu użytkowników
+	pozyskania przez A certyfikatu klucza publicznego B

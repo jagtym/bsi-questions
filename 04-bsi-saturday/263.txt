@@ -1,0 +1,6 @@
+QQ0001
+263.	Wpisy ACE (na liście ACL) zabraniające dostępu:
+	występują tylko w przypadku zwirtualizowanych aplikacji w MS Windows
+	nie są dziedziczone wgłąb katalogu
+	występują tylko w POSIX ACL
+	mają priorytet nad wpisami ACE przyznającymi dostęp

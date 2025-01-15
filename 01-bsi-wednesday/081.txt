@@ -1,0 +1,9 @@
+QQ1100001
+81.	Wskaż cechy SNAT:
+	wymaga utrzymywania listy aktywnych translacji
+	ukrywa rzeczywisty adres nadawcy pakietu
+	może być pomyślnie wykonane pośrodku tunelu VPN zarówno w trybie tunelowym jak i transportowym
+	może być pomyślnie wykonane pośrodku tunelu VPN tylko w trybie transportowym
+	wymaga uwierzytelnienia stron przed zestawieniem połączenia
+	pozwala uniknąć powtórnego sprawdzania reguł filtracji dla ruchu zweryfikowanego uprzednio
+	dokonuje podmiany zarówno adresu jak i numeru portu

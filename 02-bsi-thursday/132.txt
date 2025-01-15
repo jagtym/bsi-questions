@@ -1,0 +1,7 @@
+QQ00101
+132.	Niezaprzeczalność to własność potwierdzająca iż:
+	odbiorca wiadomości nie sfałszował jej treści po odebraniu
+	nadawca wiadomości jest rzeczywiście tym za kogo się podaje
+	nadawca wiadomości faktycznie ją wysłał
+	doszło do ataku aktywnego MiM
+	odbiorca wiadomości faktycznie ją odebrał

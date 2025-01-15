@@ -1,0 +1,5 @@
+QQ001
+13.	Model kontroli dostępu MAC zabrania podmiotowi o etykiecie P: [1/1]
+	odczytu obiektu o niższej etykiecie niż P
+	zapisu obiektu o wyższej etykiecie niż P
+	odczytu obiektu o wyższej etykiecie niż P

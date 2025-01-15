@@ -1,0 +1,6 @@
+QQ1001
+14.	Wskaż protokoły i standardy dokonujące uwierzytelniania dostępu do sieci, działające między klientem sieci (komputerem) a punktem (serwerem) dostępowym: [1/1]
+	IEEE 802.1X
+	TACACS
+	RADIUS
+	EAP

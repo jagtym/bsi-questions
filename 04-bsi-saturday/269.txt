@@ -1,0 +1,6 @@
+QQ0010
+269.	Które stwierdzenia dotyczące blokady konta w systemie Windows są nieprawdziwe:
+	próg blokady określa ilość kolejnych niepomyślnych prób logowania, po osiągnięciu której dostęp do konta będzie czasowo zablokowany
+	licznik prób logowania jest zerowany automatycznie po upływie czasu blokady konta
+	podczas blokady konta, kolejne logowanie będzie możliwe dopiero po wyzerowaniu licznika prób (np. przez administratora)
+	w czasie określonym długością okresu zerowania licznika prób logowania, użytkownik nie może podjąć więcej udanych prób logowania niż określa próg blokady

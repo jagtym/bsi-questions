@@ -1,0 +1,6 @@
+QQ0100
+375.	Jakie mechanizmy kryptograficzne są niezbędne w celu zapewnienia niezaprzeczalności (ang. nonrepudiation) w kontekście poczty elektronicznej?
+	wiadomość musi być podpisana elektronicznie kluczem publicznym nadawcy
+	wiadomość musi być podpisana elektronicznie kluczem prywatnym nadawcy
+	do wiadomości musi zostać dołączony certyfikat poświadczony przez zaufany urząd CA
+	wiadomość musi zostać zaszyfrowana kluczem symetrycznym znanym jedynie stronom komunikacji

@@ -1,0 +1,6 @@
+QQ0110
+111.	Algorytm SHA-256 i SHA-512 różnią się wzajemnie:
+	odpornością na ataki Length extension
+	podatnością na kolizje
+	wielkości wynikowego skrótu
+	żadne z powyższych

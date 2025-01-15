@@ -1,0 +1,7 @@
+QQ00001
+335.	Idea polaczen typu VPN jest
+	zmiana routingu pakietow, aby z jednej sieci pakiety trafialy bezposrednio do sieci docelowej
+	wsparcie polaczen p2p, aby hosty mogly bezposrednio komunikowal sie
+	obejscie problemow z polaczeniami z sieciami zlokalizowanymi za NAT
+	mozliwosc zapewnienia bardziej niezawodnych, w sensie polaczeniowym, niz TCP polaczen miedzy hostami
+	utworzenie sieci laczacej odseparowane, odlegle sieci lokalne

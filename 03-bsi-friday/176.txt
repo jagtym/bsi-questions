@@ -1,0 +1,6 @@
+QQ1001
+176.	Cechy charakterystyczne ataku SYN flood to:
+	intensywny strumień segmentów SYN skierowany na adres ofiary
+	intensywny strumień segmentów SYN/ACK skierowany na adres ofiary
+	brak segmentów SYN/ACK
+	brak segmentów ACK

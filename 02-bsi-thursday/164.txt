@@ -1,0 +1,5 @@
+QQ101
+164.	Protokół SSH umożliwia:
+	pobieranie plików
+	bezpołączeniową komunikację ze zdalnym hostem, na którym uruchomiony jest serwer ssh
+	nawiązywanie połączeń ze zdalnymi terminalami

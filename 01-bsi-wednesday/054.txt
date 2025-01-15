@@ -1,0 +1,6 @@
+QQ1110
+54.	Hasła użytkowników systemu Windows są przechowywane: [0.7/1]
+	w rejestrze systemowym
+	w bazie SAM na dysku
+	w formie nieodwracalnego wyniku funkcji mieszającej
+	w pliku shadow zaszyfrowanym kluczem RSA (SYSKEY), do którego dostęp ma tylko administrator systemu

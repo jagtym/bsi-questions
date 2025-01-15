@@ -1,0 +1,9 @@
+QQ1111011
+15.	Protokół Kerberos: [1/1]
+	pozwala osiągnąć obustronne uwierzytelnienie klienta usługi sieciowej i serwera tej usługi
+	realizuje uwierzytelnianie w modelu z zaufaną stroną trzecią
+	realizuje uwierzytelnianie kryptograficzne z wykorzystaniem kluczy symetrycznych
+	realizuje uwierzytelnianie SSO w środowisku domenowym
+	realizuje uwierzytelnianie SSO w środowisku między-domenowym
+	umożliwia uwierzytelnianie i autoryzację klientów usług sieciowych przez scentralizowany mechanizm (serwer KDC)
+	nie wymaga znajomości po stronie uwierzytelniającej żadnych danych wrażliwych klienta (Zero-Proof Knowledge)

@@ -1,0 +1,6 @@
+QQ1010
+165.	Jakie restrykcje wprowadza tryb Safe w konfiguracji modułu PHP serwera WWW?
+	blokowanie wybranych funkcji
+	ograniczenie dostępu do fragmentu systemu plików SSL
+	dostęp tylko do plików o tym samym właścicielu co skrypt
+	ograniczenie zakresu zmiennych modyfikowanych

@@ -1,0 +1,6 @@
+QQ0001
+152.	Który termin określa ochronę informacji przed nieautoryzowanym jej zmodyfikowaniem:
+	autoryzacja
+	niezaprzeczalność
+	spójność
+	integralność

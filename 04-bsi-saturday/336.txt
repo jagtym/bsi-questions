@@ -1,0 +1,6 @@
+QQ0001
+336.	Opcja PARANOID w pliku hosts.deny
+	blokuje zdalne zarzadzanie mechanizmem TCP wrappers, pozostawiajac dostep tylko z lokalnego hosta
+	wymusza sprawdzanie segmentow TCP czy sa poprawne w stosunku do norm RFC
+	pozwala ograniczyc ilosc pakietow/s przychodzacych do danej uslugi
+	blokuje pakiety pochodzace od hosta, ktorego ip nie posiada nazwy domenowej

@@ -1,0 +1,6 @@
+QQ1001
+260.	ssh -L 9999:cerber:23 polluks Wybierz prawdziwe stwierdzenia dotyczące powyższego polecenia:
+	ruch między między lokalnym komputerem a polluksem będzie szyfrowany
+	dane kierowane na port 9999 systemu cerber zostaną przesłane w zaszyfrowanej formie na port 23 systemu polluks
+	dane kierowane na port 9999 systemu cerber zostaną przesłane w niezabezpieczonej formie na port 23 systemu polluks
+	w wyniku polecenia zestawiony zostanie zabezpieczony tunel między systemem cerberem a polluksem

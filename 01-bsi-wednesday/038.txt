@@ -1,0 +1,6 @@
+QQ0010
+38.	Tunele OpenVPN: [1/1]
+	stosują protokół ESP do szyfrowania ruchu
+	stosują protokół AH do szyfrowania ruchu
+	stosują protokół TLS do szyfrowania ruchu
+	stosują protokół ISAKMP do uwierzytelniania ruchu
