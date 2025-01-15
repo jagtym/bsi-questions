@@ -1,0 +1,6 @@
+QQ0110
+239.	Które protokoły umożliwiają propagacje portów w tunelu kryptograficznym?
+	ESP
+	SSH
+	SSL
+	AH

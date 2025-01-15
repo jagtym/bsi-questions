@@ -1,0 +1,6 @@
+QQ1011
+36.	Które z poniższych algorytmów kryptograficznych mogą zostać wykorzystane w sieci VPN do szyfrowania transmisji przez protokół SSL/TLS lub IPsec:
+	RSA
+	ECDH
+	AES
+	DH

@@ -1,0 +1,6 @@
+QQ0010
+247.	Jaka usługa jest szczególnie narażona na atak TCP spoofing?
+	FTP, ponieważ domyślnie serwery działają w trybie pasywnym
+	FTP, ponieważ domyślnie serwery działają w trybie aktywnym
+	RCP, ponieważ używa adresu klienta do uwierzytelnienia
+	RCP, ponieważ nie używa adresu klienta do uwierzytelnienia

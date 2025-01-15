@@ -1,0 +1,10 @@
+QQ10000000
+18.	Protokół SSL/TLS: [1/1]
+	pozwala uwierzytelniać kryptograficznie zarówno klienta, jak i serwer
+	nigdy nie uwierzytelnia klienta, to zadanie wyłącznie protokołu aplikacyjnego, np. HTTP
+	nigdy nie dokonuje uwierzytelniania, zostawiając to zadanie innym protokołom, np. ISAKMP
+	kryptograficznie uwierzytelnia tylko serwer, klienta tylko hasłem
+	uwierzytelnianie obustronne uczestników komunikacji
+	szyfrowanie transmisji na poziomie warstwy sesji OSI
+	uwierzytelnianie SSO
+	szyfrowanie transmisji na poziomie warstwy transportowej OSI

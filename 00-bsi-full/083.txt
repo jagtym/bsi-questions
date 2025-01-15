@@ -1,0 +1,8 @@
+QQ000100
+83.	Jak zachowa się system kontroli ACL standardu POSIX w przypadku użytkownika U należącego do grupy G i wpisanego na liście ACL obiektu p, jeśli ani U ani G nie mają jawnie przydzielonego prawa r, ale kategoria “wszyscy użytkownicy” (others) takie uprawnienie do obiektu p posiada:
+	prawo do obiektu p nie zostanie efektywnie przyznane, ale U odziedziczy je w głąb, jeśli p jest katalogiem
+	prawo r do obiektu p zostanie efektywnie przyznane bezwarunkowo
+	prawo r do obiektu p zostanie efektywnie przyznane, o ile U jest właścicielem p
+	prawo r do obiektu p nie zostanie efektywnie przyznane
+	prawo r do obiektu p zostanie efektywnie przyznane, o ile U jest wlascicielem p
+	prawo r do obiektu p nie zostanie efektywnie przyznane

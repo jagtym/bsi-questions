@@ -1,0 +1,6 @@
+QQ1100
+234.	Wskaż szyfry symetryczne
+	Blowfish
+	DES
+	ElGamal
+	żadne z powyższych

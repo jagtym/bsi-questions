@@ -1,0 +1,6 @@
+QQ0011
+148.	Do zrealizowania zamaskowanego kanału komunikacyjnego może potencjalnie posłużyć:
+	metoda challenge-response na poziomie warstwy 2 OSI
+	port szeregowy
+	obciążenie systemu
+	kolejka wydruku

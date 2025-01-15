@@ -1,0 +1,6 @@
+QQ0100
+136.	Mechanizm ochrony antyspamowej o nazwie „szare listy” opera się na:
+	automatycznym weryfikowaniu listy zabronionych adresów nadawców przez MTA
+	odesłaniu komunikatu SMTP o czasowej niedostępności usługi
+	analizie heurystycznej nagłówka SMTP przez MUA
+	dynamicznym weryfikowaniu listy podejrzanych adresów nadawców przez użytkownika

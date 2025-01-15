@@ -1,0 +1,6 @@
+QQ1001
+244.	Funkcja skrótu dająca wynik 512-bitowy
+	ma teoretyczna odpornosc na kolizje = 2^256
+	wymaga klucza 512b
+	wymaga klucza 256b
+	ma teoretyczna odpornosc na atak urodzinowy = 2^256

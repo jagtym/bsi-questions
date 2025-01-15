@@ -1,0 +1,6 @@
+QQ0110
+34.	Zaznacz prawdziwe stwierdzenia dotyczące protokołu HTTP: [0.5/1]
+	HTTP od wersji 1.1 uwierzytelnia nie tylko klienta, ale i serwer
+	Digest Authentication HTTP 1.1 realizuje metodę challenge-response
+	Basic Authentication w HTTP 1.0 przesyła nazwę użytkownika i hasło w postaci niezaszyfrowanej
+	Basic Authentication w HTTP 1.1 przesyła nazwę użytkownika i hasło w postaci zaszyfrowanej

@@ -1,0 +1,6 @@
+QQ0011
+79.	Które narzędzia wykorzystywane są do ochrony antyspamowej w systemie pocztowym?
+	open proxy
+	open relay
+	szare listy
+	filtry Bayesa

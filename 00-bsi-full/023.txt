@@ -1,0 +1,6 @@
+QQ1000
+23.	Algorytm Lamporta, leżący u podstaw koncepcji programowej generacji haseł jednorazowych:
+	wymaga użycia funkcji jednokierunkowej
+	wymaga rozwiązania problemu rozproszonego konsensusu
+	wymaga wykorzystania kryptografii asymetrycznej
+	wymaga rozwiązania problemu rozproszonego wzajemnego wykluczania

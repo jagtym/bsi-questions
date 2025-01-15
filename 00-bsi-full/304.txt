@@ -1,0 +1,9 @@
+QQ0010101
+304.	Co można ustawić w zasadach kont w MS Windows
+	minimalną długość nazwy użytkownika
+	maksymalną długość nazwy użytkownika
+	minimalną długość hasła
+	maksymalną długość hasła
+	złożoność hasła
+	szyfrowanie AES
+	Minimalny czas ważności hasła

@@ -1,0 +1,6 @@
+QQ0100
+170.	Zastosowanie rozszerzenia Enigmail w kliencie poczty Thunderbird pozwala na:
+	używanie mechanizmu SSL do zapewniania bezpiecznych szyfrowanych kanałów komunikacyjnych z serwerem poczty POP
+	wykorzystywanie PGP do szyfrowania i podpisywania wiadomości
+	ochronę przed atakami man-in-the-middle
+	używanie mechanizm SSL do zapewniania bezpiecznych szyfrowanych kanałów komunikacyjnych z serwerem poczty SMTP

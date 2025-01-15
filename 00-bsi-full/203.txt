@@ -1,0 +1,7 @@
+QQ01000
+203.	Skrót VPN to:
+	szczególny rodzaj sieci vlan ale rozciągającej się na kilka sieci lokalnych rozdzielonych Internetem
+	wirtualna sieć prywatna
+	dodatkowy model komunikacji wykorzystywany przez IPSec do zaufanych połączeń między urządzeniami sieciowymi takimi jak routery i switche, hosty
+	szkieletowa sieć w Internecie przeznaczona dla zastosowań korporacyjnych zapewniająca wysoki stopień bezpieczeństwa np. w przypadku transakcji między bankami albo filiami tego samego banku połączonych Internetem
+	eksperymentalny projekt bezpiecznej sieci następnej generacji w której będzie można łączyć dowolną ilość sieci lokalnych rozdzielonych Internetem w jedna calosc, dzięki czemu będzie możliwy swobodny dostep do zasobow jednej sieci lokalnej przez inna np. dostep do intranetu centrali firmy przez pracowników firmy z oddziałów firmy w innym mieście

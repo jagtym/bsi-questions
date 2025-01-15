@@ -1,0 +1,6 @@
+QQ0101
+283.	Stosowany w sieciach VPN preshared key to:
+	klucz publiczny z predefiniowanego certyfikatu SSL służący do generacji asymetrycznego klucza szyfrowania danych
+	statycznie ustalony po obu stronach tunelu klucz symetryczny
+	mechanizm uwierzytelniania wykorzystujący generowane losowo po obu stronach wstępne klucze asymetryczne D-H
+	mechanizm pozwalający uwierzytelniać strony tunelu

@@ -1,0 +1,6 @@
+QQ0100
+96.	Firewalking to:
+	połączenia zapór filtrujących ruch sieciowy z usługami proxy
+	technika odkrywania istnienia zapory sieciowej i otwartych na niej portów
+	szeregowe połączenia zapór sieciowych typu proxy
+	kaskadowe połączenia zapór sieciowych filtrujących pakiety

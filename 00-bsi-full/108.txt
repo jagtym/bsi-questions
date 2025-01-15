@@ -1,0 +1,6 @@
+QQ1011
+108.	Które nazwy ataków dotyczą zalewania użytkowników niepożądaną informacją:
+	spam
+	pharming
+	scam
+	spim

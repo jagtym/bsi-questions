@@ -1,0 +1,6 @@
+QQ0101
+32.	Zaznacz cechy charakterystyczne metody ARP detekcji podsłuchu w sieci:
+	ogłoszenie ARP skierowane pod fałszywy adres IP
+	zapytanie ARP skierowane pod właściwy adres MAC odpytywanej stacji
+	zapytanie ARP skierowane pod rozgłoszeniowy adres MAC
+	zapytanie ARP skierowane pod nierozgłoszeniowy adres MAC

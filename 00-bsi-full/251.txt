@@ -1,0 +1,6 @@
+QQ1100
+251.	Które z poniższych reguł są prawdziwe w przypadku mechanizmu Mandatory Access Control (MAC). Podmiot nie może …
+	zapisać danych o etykiecie niższej niż jego aktualna
+	uruchomić procesu o etykiecie wyższej niż jego aktualna
+	zapisać danych o etykiecie wyższej niż jego aktualna
+	czytaj danych o etykiecie niższej niż jego aktualna

@@ -1,0 +1,6 @@
+QQ1000
+185.	Szyfrowanie plików w systemie Ms Windows:
+	jest dostępne dla każdego pod warunkiem korzystania z partycji typu NTFS
+	jest dostępne wyłącznie dla administratora systemu
+	jest niemożliwe
+	jest dostępna dla administratora systemu i operatora kopii bezpieczeństwa

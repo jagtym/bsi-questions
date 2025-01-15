@@ -1,0 +1,6 @@
+QQ0010
+370.	Certyfikat EFS używany w NTFS zawiera:
+	klucz, którym szyfruje się pliki
+	klucz, którym deszyfruje się pliki
+	klucz publiczny użytkownika, używany do odszyfrowywania kluczy FEK
+	klucz publiczny użytkownika, używany do szyfrowania kluczy FEK

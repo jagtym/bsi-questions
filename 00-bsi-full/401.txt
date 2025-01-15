@@ -1,0 +1,6 @@
+QQ0100
+401.	Wskaż prawdziwe stwierdzenia dotyczące szyfrowania treści plików mechanizmem EFS:
+	każdy plik szyfrowany jest kluczem publicznym właściciela pliku
+	każdy plik szyfrowany jest innym kluczem
+	plik udostępniony przez właściciela 2 innym użytkownikom jest szyfrowany 3 kluczami
+	każdy plik szyfrowany jest kluczem prywatnym właściciela pliku

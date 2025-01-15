@@ -1,0 +1,6 @@
+QQ0111
+292.	Pojedyncza reguła zapory sieciowej Windows:
+	może dotyczyć jednocześnie ruchu przychodzącego i wychodzącego
+	może dotyczyć wszystkich 3 profili sieciowych jednocześnie
+	może być ustawiona z użyciem polecenia netsh
+	może dotyczyć tylko wskazanego programu

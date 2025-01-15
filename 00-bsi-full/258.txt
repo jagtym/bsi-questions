@@ -1,0 +1,6 @@
+QQ1100
+258.	Użytkownik U systemu Unix należący do grupy G1 nie ma wpisu na liście ACL do zasobu O w systemie plików. Jednak grupie G1 na liście ACL tego zasobu nadano prawa r i w, natomiast wszystkim pozostałym (others) - prawa r oraz x. Które efektywne uprawnienia do O posiada U? (U nie jest właścicielem O i nie należy do grupy zasobu O):
+	(a) r
+	(a) w
+	(a) x
+	(a) żadne

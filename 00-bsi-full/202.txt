@@ -1,0 +1,7 @@
+QQ10001
+202.	W jakich trybach może działać VPN:
+	ruch sieciowy tunelowy i uwierzytelniany
+	ruch sieciowy nieszyfrowany ale uwierzytelniany
+	ruch sieciowy szyfrowany ale nie uwierzytelniany
+	ruch sieciowy tunelowany/transportowany
+	ruch sieciowy transportowany, szyfrowany i uwierzytelniany

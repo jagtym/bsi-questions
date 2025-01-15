@@ -1,0 +1,6 @@
+QQ0100
+128.	Wskaż cechy DNAT:
+	pozwala uniknąć powtórnego sprawdzania reguł filtracji dla ruchu zweryfikowanego uprzednio
+	ukrywa rzeczywisty adres odbiorcy pakietu
+	może być pomyślnie wykonanie pośrodku tunelu VPN tylko w trybie transportowym // w tunelowym
+	ukrywa rzeczywisty adres nadawcy pakietu

@@ -1,0 +1,6 @@
+QQ0011
+140.	Wskaż które z poniższych technik mogą być wykorzystywane do tzw. wzmacniania DDoS:
+	SYN cookies
+	protokół DNSsec
+	rozgłoszenie
+	protokół DNS

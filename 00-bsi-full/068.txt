@@ -1,0 +1,6 @@
+QQ1000
+68.	Mechanizm iptables może dokonywać wyboru reguł filtracji dla danego pakietu przez:
+	zasadę pierwszego dopasowania i zawsze przerywa szukanie przy pierwszym dopasowaniu
+	zasadę najlepszego dopasowania (najbardziej szczegółowa reguła)
+	zasadę pierwszego dopasowania, ale niekoniecznie przerywa szukanie przy pierwszym dopasowaniu
+	zasadę określoną w polityce danego łańcucha (np. BESTMATCH, FIRSTMATCH)

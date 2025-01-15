@@ -1,0 +1,6 @@
+QQ0011
+383.	PGP (GPG) używane jest do:
+	realizacji tuneli VPN
+	podpisywania plików muzycznych celem zachowania praw autorskich DRM
+	podpisywania danych
+	szyfrowania plików

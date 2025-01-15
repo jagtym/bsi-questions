@@ -1,0 +1,6 @@
+QQ1010
+172.	Istotna przewaga podpisu elektronicznego nad odręcznym polega m. in. na:
+	jest ściśle powiązany z treścią podpisywanego dokumentu
+	weryfikacja podpisu wymaga tylko dostępu do certyfikatu klucza prywatnego podpisującego, co wystarcza do sądowego uznania podpisu za autentyczny
+	autentyczność podpisu można zweryfikować poprzez prosta weryfikacje certyfikatu klucza publicznego podpisującego
+	samo złożenie podpisu umożliwia wyparcie się tego przez podpisującego

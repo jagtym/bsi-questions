@@ -1,0 +1,6 @@
+QQ0010
+215.	Algorytm 3DES w trybie EDE wykorzystuje klucze o długości:
+	256b
+	116b
+	64b
+	192b

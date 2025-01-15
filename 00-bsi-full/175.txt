@@ -1,0 +1,6 @@
+QQ1000
+175.	Metoda PING stosowana przez systemy IDS polega na wysłaniu:
+	zapytania ICMP echo request pod adres MAC niezgodny z odpytywanym IP i oczekiwaniu na odpowiedź
+	pakietów ICMP ping i porównaniu różnic w czasach odpowiedzi pomiędzy różnymi stanowiskami
+	zapytania ICMP echo request pod adres rozgłoszeniowy i oczekiwaniu na odpowiedź
+	zapytania ICMP echo request pod adres MAC podejrzanej stacji i oczekiwaniu na odpowiedź

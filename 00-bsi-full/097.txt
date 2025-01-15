@@ -1,0 +1,6 @@
+QQ1011
+97.	Które z poniższych podatności mogą potencjalnie pozwolić na wykonanie nieuprawnionego (złośliwego) kodu w aplikacji:
+	remapowanie adresu 0 (dereferencja)
+	randomizacja przydziału przestrzeni adresowej procesu
+	przepełnienie bufora
+	nadpisanie adresu obsługi przerwania/wyjątku

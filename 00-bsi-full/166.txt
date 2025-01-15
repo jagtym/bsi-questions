@@ -1,0 +1,10 @@
+QQ01000100
+166.	Serwer KDC:
+	jest bardzo dobrze zabezpieczony
+	może zapewnić bardzo dobre bezpieczeństwo w sieci
+	stosuje proste mechanizmy kryptograficzne, które są proste do złamania
+	można prosto oszukać podszywając się pod niego
+	ufa każdej usłudze
+	ufa uwiarygodnionym użytkownikom
+	ufa każdemu komputerowi w domenie
+	działa jedynie w obrębie jednej sieci lokalnej

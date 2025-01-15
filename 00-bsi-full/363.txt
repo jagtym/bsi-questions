@@ -1,0 +1,6 @@
+QQ0010
+363.	Czy serwer KDC w systemie Kerberos przechowuje konta uzytkownikow?
+	tak
+	tylko lokalne konta
+	nie
+	tylko konta administratorow

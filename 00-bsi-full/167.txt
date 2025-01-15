@@ -1,0 +1,6 @@
+QQ0010
+167.	Wektor inicjujący w szyfrowaniu:
+	musi być tajny i znany tylko odbiorcy
+	musi być tajny i znany obu stronom komunikacji
+	powinien mieć losową wartość, za każdym razem inną
+	wykorzystywany jest wyłącznie w szyfrowaniu asymetrycznym

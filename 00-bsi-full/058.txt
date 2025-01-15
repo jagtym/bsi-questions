@@ -1,0 +1,10 @@
+QQ01000001
+58.	Wykorzystanie kryptograficznego podpisu wiadomości pozwala odbiorcy zweryfikować: [1/1]
+	autentyczność wiadomości przy użyciu klucza prywatnego odbiorcy
+	autentyczność wiadomości przy użyciu klucza publicznego nadawcy
+	autentyczność wiadomości przy użyciu klucza prywatnego nadawcy
+	autentyczność wiadomości przy użyciu klucza publicznego odbiorcy
+	pochodzenie wiadomości przy użyciu klucza prywatnego odbiorcy
+	pochodzenie wiadomości przy użyciu klucza publicznego odbiorcy
+	pochodzenie wiadomości przy użyciu klucza prywatnego nadawcy
+	pochodzenie wiadomości przy użyciu klucza publicznego nadawcy

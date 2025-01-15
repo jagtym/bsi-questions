@@ -1,0 +1,6 @@
+QQ0011
+323.	Która z poniższych cech poprawnie opisuje mechanizm SYN cookies:
+	chroni przed atakami buffer overflow
+	jest jedną z technik wzmacniania ataków DDos
+	chroni przed atakami SYN flood
+	po wysłaniu segmentu SYN/ACK nadawca zapomina o połączeniu

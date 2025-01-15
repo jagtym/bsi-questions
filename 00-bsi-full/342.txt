@@ -1,0 +1,6 @@
+QQ0100
+342.	SUID to:
+	uproszczona wersji limitow
+	bit uprawnien
+	odpowiednik SGID dla katalogow
+	rozszerzenie mechanizmu SUDO

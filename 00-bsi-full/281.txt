@@ -1,0 +1,6 @@
+QQ0010
+281.	Wskaż to z ustawień parametrów haseł (tylko jedno), które jest najkorzystniejsze dla bezpieczeństwa konta:
+	okres ważności hasła: nieskończony
+	maksymalna długość: 14 znaków
+	minimalna długość: 10 znaków
+	odwracalne szyfrowanie haseł: włączone

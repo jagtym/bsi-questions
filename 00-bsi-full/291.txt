@@ -1,0 +1,6 @@
+QQ0010
+291.	Historia haseł jest przechowywana przez system operacyjny:
+	aby wykluczyć ponowne użycie tego samego hasła jednorazowego
+	aby wykluczyć ustawienie nowego hasła identycznego z jakimkolwiek wcześniej wybranych przez tego samego użytkownika od początku
+	w połączeniu z minimalnym okresem ważności hasła, aby wykluczyć zbyt częste wybieranie przez użytkownika tego samego nowego hasła
+	aby umożliwić tzw. przypomnienie haseł użytkowników (szczególnie użyteczne w przypadku aplikacji nieobsługujących funkcji jednokierunkowych)

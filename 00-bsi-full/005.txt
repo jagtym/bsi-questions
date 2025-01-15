@@ -1,0 +1,6 @@
+QQ0010
+5.	Które metody uwierzytelniania stosuje protokół HTTP/1.1 [1/1]
+	tylko użycie jednokierunkowej funkcji skrótu
+	tylko username-password
+	zarówno username-password jak i użycie funkcji skrótu, ale nie certyfikaty X.509
+	zarówno username-password, funkcją skrótu, jak i certyfikaty X.509

@@ -1,0 +1,6 @@
+QQ0010
+124.	Do przechowywania danych uwierzytelniających w systemie MS Windows aplikacje mogą skorzystać z:
+	Winlog API
+	Data Protection API (DPAPI)
+	Credential Manager API
+	Generic Security Service API (GSSAPI)

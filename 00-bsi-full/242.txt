@@ -1,0 +1,6 @@
+QQ0100
+242.	Ochronę SYSKEY wprowadzono w systemie MS Windows w celu
+	szyfrowania plików użytkowników w systemie NTFS
+	wzmocnionego szyfrowania postaci hash haseł użytkowników
+	odszyfrowania plików przez systemowa usługę odzyskiwania plików
+	szyfrowania plików systemowych w systemie NTFS

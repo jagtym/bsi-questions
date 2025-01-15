@@ -1,0 +1,6 @@
+QQ0100
+297.	Wskaż różnicę między dwoma komendami sudo su oraz su:
+	jedyną różnicą jest to, że aby wykonać polecenie sudo su użytkownik musi należeć do grupy whels
+	sudo su może wymagać podania hasła bieżącego użytkownika, su natomiast root’a
+	su będzie wymagać podania hasła bieżącego użytkownika, sudo su natomiast root’a
+	nie ma żadnej różnicy, sudo su jest aliasem na su OpenVPN

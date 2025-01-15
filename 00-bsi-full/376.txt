@@ -1,0 +1,6 @@
+QQ1110
+376.	Mechanizm wirtualizacji dostępu do newralgicznych komponentów systemu Windows:
+	dotyczy niektórych obiektów rejestru systemowego
+	może być włączany/wyłączany przez użytkownika dla jego własnych procesów
+	dotyczy niektórych obiektów systemu plików
+	jest stosowany wyłącznie wobec aplikacji 64-bitowych

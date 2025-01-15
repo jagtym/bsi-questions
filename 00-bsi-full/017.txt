@@ -1,0 +1,6 @@
+QQ1010
+17.	Systemy nadzoru NAC (Network Access Control): [0.5/1]
+	dokonują uwierzytelniania stanowisk sieciowych przed dopuszczeniem ich do sieci lokalnej
+	wykrywają pakiety na podstawie analizy behawioralnej i uczenia maszynowego
+	dopuszczają stanowiska do sieci lokalnej po weryfikacji zgodności ich konfiguracji z polityką bezpieczeństwa
+	wykrywają podejrzane pakiety na podstawie sygnatur ataków sieciowych

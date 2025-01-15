@@ -1,0 +1,6 @@
+QQ1100
+197.	Skrót IKE oznacza:
+	rodzaj algorytmów wymiany kluczy w FreeS/Wan
+	bardzo ważny element pakietu FreeS/Wan pozwalający tworzyć bezpieczne połączenie sterujące tunelami VPN
+	Information Key Exchange
+	jeden z algorytmów szyfrowania w pakiecie FreeS/Wan

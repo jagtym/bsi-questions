@@ -1,0 +1,6 @@
+QQ1000
+212.	Mechanizm SSO (single-sign-on):
+	służy ochronie danych uwierzytelniających użytkownika
+	pozwala jednolicie chronić podpisem cyfrowym poufność całej komunikacji
+	służy ochronie niezaprzeczalności danych składowanych w repozytorium
+	pozwala jednolicie chronić podpisem cyfrowym integralność całej komunikacji

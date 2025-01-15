@@ -1,0 +1,6 @@
+QQ0101
+45.	Domyślne udziały administracyjne w systemie Windows:
+	dostępne są tylko dla administratora
+	są tworzone automatycznie przy instalacji systemu
+	nie mogą być usunięte
+	mogą być usunięte

@@ -1,0 +1,10 @@
+QQ00001011
+322.	Mechanizm SYN cookies:
+	odpowiada na wcześniej odebrany pakiet SYN po zadanym czasie oczekiwania
+	pozwala przeglądarce na bezpieczną aktualizację ciasteczek
+	minimalizuje ilość informacji potrzebnych przeglądarce do uwierzytelniania zdalnego dostępu
+	odpowiada na właśnie odebrany pakiet SYN, tylko jeśli spełnia zadane kryteria poprawności
+	nie rozpoczyna zestawienia połączenia po odebraniu segmentu SYN
+	jest wykorzystywany do przeprowadzania rozproszonego ataku DoS
+	ogranicza zasoby przydzielane przez system przy odbiorze żądania nawiązania połączenia
+	identyfikuje połączenie wartością pola ACK

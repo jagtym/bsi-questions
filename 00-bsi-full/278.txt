@@ -1,0 +1,6 @@
+QQ0010
+278.	xinetd to:
+	moduł jądra Linux, który implementuje kontekstową filtrację pakietów
+	prosty mechanizm szyfrowania używany przez zaporę sieciową w systemie Linux
+	 element systemu operacyjnego Linux, odpowiedzialny za dynamiczne uruchamianie usług sieciowych
+	 moduł jądra Linux, który limity zasobowe w stosie TCP/IP

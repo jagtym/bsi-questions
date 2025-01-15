@@ -1,0 +1,6 @@
+QQ1100
+210.	Wskaż kiedy system kontroli dostępu MAC może zezwolić podmiotowi P na dopisanie danych do zasobu Z:
+	gdy zbiór kategorii przynależności danych Z zawiera się w zbiorze kategorii P
+	gdy poziom zaufania P jest niższy niż Z
+	gdy poziom zaufania P jest wyższy niż Z
+	gdy poziom zaufania P jest wyższy niż Z

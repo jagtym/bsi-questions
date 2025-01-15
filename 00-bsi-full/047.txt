@@ -1,0 +1,5 @@
+QQ110
+47.	Model kontroli dostępu MIC  zabrania  podmiotowi o etykiecie P:
+	zapisu obiektu o wyższej etykiecie niż P
+	odczytu obiektu o niższej etykiecie niż P
+	zapisu obiektu o niższej etykiecie niż P

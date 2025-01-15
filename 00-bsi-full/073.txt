@@ -1,0 +1,6 @@
+QQ0001
+73.	Które z poniższych twierdzeń dotyczących POSIX ACL są prawdziwe? [1/1]
+	w momencie tworzenia katalogu jego uprawnienia ACL kopiowane są z domyślnych uprawnień (Default ACL) folderu nadrzędnego z wykluczeniem uprawnienia do wykonywania
+	w momencie tworzenia pliku jego uprawnienia domyślne (Default ACL) zostają odziedziczone z folderu nadrzędnego
+	w momencie tworzenia pliku jego uprawnienia ACL kopiowane są z domyślnych uprawnień (Default ACL) folderu nadrzędnego z wykluczeniem uprawnienia do wykonywania
+	w momencie tworzenia katalogu jego uprawnienia domyślne (Default ACL) zostają odziedziczone z folderu nadrzędnego

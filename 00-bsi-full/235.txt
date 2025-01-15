@@ -1,0 +1,6 @@
+QQ1100
+235.	Protokół IPv6
+	oferuje mechanizm AH w celu zapewnienia autentyczności
+	oferuje mechanizm ESP w celu zapewnienia poufności
+	nie oferuje AH, jako że jego zadania powiela ESP
+	nie oferuje żadnych mechanizmów bezpieczeństwa (wymaga dodatkowej implementacji IPsec)

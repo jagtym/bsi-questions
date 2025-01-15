@@ -1,0 +1,10 @@
+QQ10000001
+102.	Mechanizm single-sign-on cechuje: // Mechanizm SSO cechuje:
+	uwierzytelnianie użytkownika wobec wielu serwerów jednorazową procedurą
+	podpisywanie każdego pakietu danych VPN innym kluczem
+	uwierzytelnianie użytkownika za każdym razem innym hasłem
+	uwierzytelnianie użytkownika innym hasłem wobec każdego serwera
+	autoryzacja podmiotu zgodnie z modelem MAC
+	uwierzytelnianie podmiotu za każdym razem innych hasłem jednorazowym
+	zastosowanie mechanizmu szyfrowania asymetrycznego w procesie autoryzacji
+	zastosowanie pojedynczego uwierzytelniania podmiotu w dostępie do wielu różnych zasobów

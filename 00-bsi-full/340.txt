@@ -1,0 +1,8 @@
+QQ010100
+340.	getfacl --omit-header acl-test1 user::rw- user:junior:rwx group::r-- group:student:r-x mask::r-- other::--- Oznacza, ze:
+	wlasciciel moze wykonac plik
+	grupa domyslna/wlasciciela moze odczytac plik
+	uzytkownik "junior" moze wykonac plik
+	wlasciciel moze modyfikowac plik
+	grupa "student" moze wykonac plik
+	inni moga zmodyfikowac plik

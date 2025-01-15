@@ -1,0 +1,8 @@
+QQ001010
+337.	getfacl --omit-header acl-test5 user::r-x user:inf44444:r-- group::rw- group:student:r-x mask::rwx other::--x Oznacza:
+	uzytkownik "inf44444" nie moze czytac pliku acl-test5
+	wlasciciel ma prawo zmodyfikowac zawartosc katalogu acl-test5
+	uzytkownik "inf44444" moze czytac plik acl-test5
+	maska blokuje wszystkie uprawnienia do pliku acl-test5
+	grupa wlasciciela moze zmodyfikowac plik acl-test5
+	grupa "student" moze zmodyfikowac plik acl-test5

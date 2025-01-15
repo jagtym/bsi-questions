@@ -1,0 +1,6 @@
+QQ0110
+224.	Ktora klasa RAID zapewnia odpornosc na jednoczesna awarie 2 dyskow w 5-dyskowej macierzy?
+	RAID 2
+	RAID 1
+	RAID 6
+	żadna z powyższych

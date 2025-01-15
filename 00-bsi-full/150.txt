@@ -1,0 +1,7 @@
+QQ10101
+150.	Mechanizm Lock-and-Key:
+	wymaga uwierzytelnienia użytkownika, np. za pomocą RADIUS-a
+	automatycznie blokuje stacje niespełniające wymagań polityki bezpieczeństwa
+	może być wykorzystywany do tymczasowego uzyskania uprzywilejowanego dostępu do sieci wewnętrznej z zewnątrz
+	służy do translacji reguł filtracji z jednej zapory na inną
+	jest podatny na IP spoofing

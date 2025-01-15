@@ -1,0 +1,6 @@
+QQ0110
+142.	Wskaż cechy ścisłej kontroli dostępu (MAC):
+	podatna na błędy samodzielnej konfiguracji przez użytkownika
+	wymaga kosztownej globalne konfiguracji systemu
+	nie pozwala użytkownikowi sterować uprawnieniami do jego własnych zasobów
+	trudna do nadzorowania przez system

@@ -1,0 +1,6 @@
+QQ0010
+379.	$ getfacl skrypt user :: rw- user: jbond:r-x group :: rwx group: agents: rwx mask :: r-x other ::- w- Oznacza, że:
+	grupa agents może zmodyfikować skrypt
+	grupa domyślna (owning group) może zmodyfikować skrypt
+	użytkownik jbond może wykonać skrypt
+	pozostali użytkownicy mogą zmodyfikować skrypt

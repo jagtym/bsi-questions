@@ -1,0 +1,6 @@
+QQ0011
+22.	Szyfrowanie asymetryczne zapewnia:
+	autentyczność pod warunkiem zachowania tajności klucza prywatnego odbiorcy
+	poufność pod warunkiem zachowania tajności klucza prywatnego nadawcy
+	poufność pod warunkiem zachowania tajności klucza prywatnego odbiorcy
+	autentyczność pod warunkiem zachowania tajności klucza prywatnego nadawcy

@@ -1,0 +1,9 @@
+QQ0000001
+353.	Jaki uzytkownik zostanie wybrany w momencie logowania sie na zdalna maszyne przez rsh, gdy w poleceniu rsh nie podano nazwy uzytkownika?:
+	wystapi blad podczas uwierzytelniania poniewaz nie podano nazwy uzytkownika
+	lokalny uzytkownik nobody
+	zawsze root z uwagi na mozliwosc wykonania niektorych komend systemowych
+	lokalny uzytkownik rshd
+	zdalny uzytkownik rshd
+	lokalny uzytkownik operator
+	lokalny biezacy uzytkownik

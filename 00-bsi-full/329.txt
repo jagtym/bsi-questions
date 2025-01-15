@@ -1,0 +1,8 @@
+QQ000100
+329.	Narzedzie OpenVPN
+	dziala tylko na protokole TCP
+	wykorzystuje mechanizm pre-shared key do losowego generowania kluczy
+	nie ma wyroznionego programu serwerowego i klienckiego
+	jest przykladem SSL-VPN
+	wykorzystuje certyfikaty MD5 i funkcje skrotu SHA-1 do uwierzytelniania stron i szyfrowania ruchu sieciowego
+	wykorzystuje mechanizm SSL-VPN do laczenia sie z serwerami wspierajacymi protokol https np. Apache

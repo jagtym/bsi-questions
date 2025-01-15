@@ -1,0 +1,6 @@
+QQ1000
+384.	$getfacl test owner: jbond group: agents user::rw- user:jbond:r-x group:agents:--x mask::r-x other:--- W takim wypadku użytkownik jbond (będący właścicielem obiektu test), należący do grupy agents, ma efektywne uprawnienia:
+	(a) rw
+	(a) rx
+	(a) r
+	(a) rwx

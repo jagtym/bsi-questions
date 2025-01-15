@@ -1,0 +1,6 @@
+QQ0001
+406.	Polecenie netsh advfirewall firewall add rule name=”private” protocol=icmpv4 action=block dir =out remoteip=10.10.0.2
+	pingowania adresu 10.10.0.2 niezależnie od użycia IPv4 czy IPv6
+	pingowania adresu 10.10.0.2 tylko w sieci o profily prywatnym
+	pingowania tylko po IPv4 bieżącego systemu z adresu 10.10.0.2 (bez wpływu na IPv6)
+	pingowania tylko po IPv4 adresu z bieżącego system 10.10.0.2 (bez wpływu na IPv6)

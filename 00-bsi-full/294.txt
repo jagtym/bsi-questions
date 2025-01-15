@@ -1,0 +1,6 @@
+QQ1011
+294.	Mechanizm mandatory Integrity Control (MIC) system Windows:
+	przypisuje procesowi jeden z 5 poziomów uprawnień uwzględnianych dodatkowo w kontroli dostępu
+	pozwala ograniczyć dostęp do odczytu dla wybranych plików
+	pozwala ograniczyć dostęp do zapisu w systemie plików
+	pozwala ograniczyć swobodę komunikacji między procesami

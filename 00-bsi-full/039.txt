@@ -1,0 +1,6 @@
+QQ1001
+39.	Które z poniższych słów kluczowych mogą być prawidłowym “celem” w regule iptables dla łańcucha OUTPUT?
+	DROP
+	FORWARD
+	XOR
+	ACCEPT

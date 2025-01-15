@@ -1,0 +1,6 @@
+QQ0001
+209.	Wskaż cechy protokołu Hot Standby Routing Protocol:
+	oferuje transparentne zasilanie z kilku redundantnych torów energetycznych
+	jest wykorzystywany w LAN Emulation
+	chroni przed atakami DoS poprzez czasowe wyłączenie routingu po wykryciu próby ataku
+	oferuje transparentna redundancje urządzeń sieciowych

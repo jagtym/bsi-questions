@@ -1,0 +1,6 @@
+QQ1010
+211.	Wskaż kiedy system kontroli dostępu MAC nie zezwoli podmiotowi P na dopisanie danych do zasobu Z:
+	gdy zbiory kategorii przynależności danych P i Z są rozłączne
+	gdy zbiór kategorii przynależności danych Z zawiera się w zbiorze kategorii P
+	gdy poziom zaufania Z jest niższy niż P
+	gdy poziom zaufania Z jest wyższy niż P

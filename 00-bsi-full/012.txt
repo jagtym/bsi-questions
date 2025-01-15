@@ -1,0 +1,6 @@
+QQ0110
+12.	Model CAP kontroli dostępu: [1/1]
+	jest stosowany w systemach MIC (Mandatory Integrity Control)
+	jest stosowany w systemach RBAC (Role-Based Access Control)
+	uprawnienia dostępu wiąże z podmiotami
+	uprawnienia dostępu wiąże z zasobami

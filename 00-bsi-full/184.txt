@@ -1,0 +1,6 @@
+QQ0001
+184.	Czy w systemie Ms Windows można skorzystać z szyfrowania PGP?
+	niestety system ten nie wspiera szyfrowania PGP
+	tak, ale tylko przy wykorzystaniu komercyjnych, płatnych programów
+	tylko przy wykorzystaniu programu Ms Outlook
+	tak, jeżeli wykorzysta się odpowiednie oprogramowanie

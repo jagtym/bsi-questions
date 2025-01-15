@@ -1,0 +1,6 @@
+QQ1001
+168.	W uwierzytelnianiu z udziałem zaufanej trzeciej strony, do zadań tej trzeciej strony należy:
+	poświadczenie uwierzytelnienia
+	pobranie listu uwierzytelniającego od jednej ze stron
+	pobranie listu uwierzytelniającego od obu stron
+	uwierzytelnienie jednej ze stron

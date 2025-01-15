@@ -1,0 +1,8 @@
+QQ001100
+160.	Czy RSBAC zapewnia:
+	wymuszanie stosowania skomplikowanych haseł
+	aktualizacje oprogramowania
+	stosowanie polityki MAC
+	system trudny do przechwycenia przez osobę niepowołaną
+	poufność przechowywanych danych
+	stosowanie polityki DAC

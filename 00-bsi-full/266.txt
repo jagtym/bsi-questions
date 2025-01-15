@@ -1,0 +1,6 @@
+QQ0001
+266.	Czy zaszyfrowany plik w systemie MS Windows możemy współdzielić z innym użytkownikiem?
+	tylko pod warunkiem przekazania temu użytkownikowi swojego klucza prywatnego
+	tylko pod warunkiem przekazania temu użytkownikowi swojego klucza publicznego
+	nie jest to możliwe
+	pod warunkiem posiadania certyfikatu EFS tego użytkownika

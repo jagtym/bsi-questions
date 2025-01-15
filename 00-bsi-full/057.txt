@@ -1,0 +1,6 @@
+QQ1000
+57.	Po uruchomieniu Notatnika na niskim poziomie integralności, może on zapisywać pliki:
+	tylko w katalogach o przypisanym poziomie integralności co najwyżej niskim, np. %userprofile&/AppData/LocalLow
+	tylko w katalogach o przypisanym poziomie integralności co najmniej niskim, np. %userprofile&/Documents
+	nigdzie
+	tylko w katalogu z danymi tymczasowymi, np. %systemroot%/Temp

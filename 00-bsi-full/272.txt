@@ -1,0 +1,6 @@
+QQ1100
+272.	Mechanizm sudo umożliwia
+	wskazanie konta, z którego można wykonać polecenie bez pytania o hasło użytkownika przypisanego do pliku programu tego polecenia, pod warunkiem przynależności do grupy przypisanego do tego pliku
+	określenie jaki użytkownik może wykonywać konkretne programy z innymi uprawnieniami
+	wykonywanie tylko programów należących do użytkownika root z uprawnieniami bieżącego użytkownika
+	uruchamianie innych aplikacji wyłącznie z uprawnieniami administratora

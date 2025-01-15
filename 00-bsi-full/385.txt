@@ -1,0 +1,6 @@
+QQ0110
+385.	Wybierz prawdziwe stwierdzenie dotyczące poniższego polecenia: ssh -L 9999:neptun:23 pluton
+	dane kierowane na port 9999 systemu neptun zostaną przesłane w niezabezpieczonej formie na port 23 systemu pluton
+	dane kierowane na port 9999 lokalnego systemu zostaną przesłane w niezabezpieczonej formie na port 23 systemu neptun
+	dane kierowane na port 9999 lokalnego systemu zostaną przesłane w zaszyfrowanej formie na port 22 systemu pluton
+	w wyniku polecenia zestawiony zostanie tunel kryptograficzny między systemem neptun i systemem pluton

@@ -1,0 +1,6 @@
+QQ1000
+402.	Protokół TLS w usłudze poczty elektronicznej stosuje się do:
+	tworzenia bezpiecznego kanału komunikacji programu klienta z serwerem poczty
+	uwierzytelniania nadawcy konkretnej wiadomości
+	podpisywania cyfrowego treści listy
+	szyfrowania załączników wiadomości

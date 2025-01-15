@@ -1,0 +1,6 @@
+QQ0100
+182.	Do czego służy komenda rlogin?
+	pozwala tylko systemowym użytkownikom zalogowac sie na lokalna maszyne
+	pozwala na zdalny dostęp do hosta
+	pozwala zalogowac sie lokalnym uzytkownikom na zdalna maszyne tylko na konto o takiej samej nazwie
+	dostarcza zaawansowanego mechanizmu uwierzytelniania użytkowników logujących się na lokalna maszyne

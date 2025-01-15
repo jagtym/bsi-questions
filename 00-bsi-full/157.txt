@@ -1,0 +1,6 @@
+QQ1111
+157.	Mechanizm haseł jednorazowych można zrealizować poprzez:
+	listy haseł jednorazowych
+	generowanie hasła jednorazowego co stały czas
+	generowanie hasła jednorazowego w odpowiedzi na żądany kod
+	generowanie hasła jednorazowego na podstawie czasu i kodu

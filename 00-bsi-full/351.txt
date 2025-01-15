@@ -1,0 +1,6 @@
+QQ0010
+351.	Oprogramowanie OpenVPN wykorzystuje tablice routingu w Linuxie:
+	do sprawdzenia kosztu trasy prowadzacej do sieci po drugiej stronie polaczenia VPN
+	aby dowiedziec sie jak nawiazac polaczenie z siecia po drugiej stronie tunelu VPN
+	do przechowywania trasy do sieci dostepnej po drugiej stronie polaczenia VPN
+	jako bufor przechowujacy nadchodzace informacje o zmianie trasy do odleglej sieci po drugiej stronie polaczenia VPN

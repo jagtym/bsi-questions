@@ -1,0 +1,6 @@
+QQ1000
+154.	Którego typu ataku dotyczy następujący opis: Atak ten przeprowadza osoba, która wobec każdej z dwóch uprawnionych stron komunikacji podszywa się za przeciwna strone, pośrednicząc w przesyłaniu danych:
+	aktywny
+	zdalny
+	pasywny
+	lokalny

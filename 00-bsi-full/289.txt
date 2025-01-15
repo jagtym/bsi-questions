@@ -1,0 +1,6 @@
+QQ1000
+289.	Jak często sudo będzie pytać użytkownika o hasło?
+	co określony czas od ostatniego użycia
+	nigdy, jeśli sudo wykorzystuje SSO
+	tylko przy pierwszym użyciu po zalogowaniu
+	za każdym razem, kiedy zostanie wywołane

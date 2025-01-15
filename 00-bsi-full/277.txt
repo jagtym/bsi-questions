@@ -1,0 +1,6 @@
+QQ0100
+277.	Skuteczna weryfikacja w systemie PGP podpisanego cyfrowo listu przesłanego od użytkownika A do użytkownika B wymaga:
+	wykonania podpisu kluczem prywatnym B
+	wykonania podpisu kluczem prywatnym A
+	wykonania podpisu kluczem publicznym B
+	wykonania podpisu kluczem publicznym A

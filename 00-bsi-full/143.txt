@@ -1,0 +1,6 @@
+QQ0011
+143.	Jaki rodzaj filtracji umożliwia podejmowanie decyzji o filtracji pakietów z uwzględnieniem stanu sesji do której przynależą?
+	filtry bezstanowe
+	filtry statyczne
+	filtry kontekstowe
+	Stateful Packet Filtering

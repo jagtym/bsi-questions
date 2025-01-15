@@ -1,0 +1,6 @@
+QQ0001
+53.	Impersonation w systemie Windows to:
+	przypisanie tokenu bezpieczeństwa ogólnego przeznaczenia do konkretnego użytkownika stanowiącego instancję pewnego SID
+	rodzaj zdalnego ataku na system, w którym napastnik podszywa się pod jednego z użytkowników
+	przechwycenie tokenu bezpieczeństwa SID przez nieuprawnionego użytkownika
+	czasowe przejęcie przez proces (wątek) uprawnień innego podmiotu

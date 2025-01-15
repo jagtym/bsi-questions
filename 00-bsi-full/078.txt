@@ -1,0 +1,6 @@
+QQ0101
+78.	Metoda programowego generowania haseł jednorazowych opracowana przez L.Lamporta polega m.in. na:
+	wygenerowaniu losowe listy N haseł wykorzystywanych wyrywkowo przez system
+	wygenerowaniu N-elementowej sekwencji wywierdoznej deterministycznie z zadanego hasła
+	wykorzystywaniu silnej kryptografii z kluczem równym początkowemu hasłu do ochrony kolejnych haseł
+	wykorzystywaniu wygenerowanych haseł w kolejności odwrotnej (od ostatniego począwszy)

@@ -1,0 +1,6 @@
+QQ1000
+223.	Które z poniższych standardów nie oferują żadnej redundancji:
+	RAID 0
+	RAID 5
+	RAID 3
+	RAID 1

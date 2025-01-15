@@ -1,0 +1,7 @@
+QQ00011
+129.	Wskaż cechy filtracji bezstanowej realizowanej przez zapory sieciowe:
+	zapora utrzymuje listę aktywnych połączeń
+	pozwala uniknąć niepotrzebnego sprawdzania reguł dla pakietów powracających w ruchu zweryfikowanym w stronę przeciwną
+	dopasowuje pakiety do zapamiętanej historii komunikacji
+	historia komunikacja nie ma wpływu na decyzje zapory
+	wymaga sprawdzania regul dla kazdego pakietu

@@ -1,0 +1,6 @@
+QQ1000
+193.	Tunel Net-to-Net to:
+	koncepcja połączenia dwóch lub więcej sieci, w której istnieją zestawione tunele między bramami dla każdej z sieci w sieci Internet
+	bezpośrednie połączenie typu proxy dwóch sieci przez Internet
+	tunel zestawiany między systemami autonomicznymi w celu wymiany informacji o trasach routingu
+	bezpośrednie połączenie dwóch lub więcej sieci przez Internet

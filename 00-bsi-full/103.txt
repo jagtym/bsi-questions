@@ -1,0 +1,8 @@
+QQ100000
+103.	Proszę wskazać algorytmy podpisu cyfrowego:
+	ElGamal
+	Blowfish
+	Rijndael
+	SHA-1
+	MD5
+	żadne z powyższych

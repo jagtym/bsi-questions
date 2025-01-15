@@ -1,0 +1,6 @@
+QQ1110
+232.	Które z wymienionych protokołów i standardów oferują szyfrowaną transmisję wiadomości pocztowych?
+	X.400
+	S/MIME
+	PGP
+	SMTP

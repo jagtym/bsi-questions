@@ -1,0 +1,6 @@
+QQ1100
+161.	Szyfrowanie asymetryczne:
+	to używanie dwóch matematycznie zależnych kluczy
+	jest wykorzystane przy podpisywaniu wiadomości
+	to używanie dwóch niezależnych kluczy: jednego do szyfrowania, drugiego do deszyfrowania
+	nie jest wykorzystywane przez SSH

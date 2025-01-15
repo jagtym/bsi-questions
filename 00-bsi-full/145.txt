@@ -1,0 +1,6 @@
+QQ0010
+145.	Algorytm 3DES to:
+	zastosowanie skrótu qubicznego Extended Signature
+	pseudolosowy generator 3D cube
+	trzykrotne użycie algorytmu DES
+	podział szyfrogramu na 3 porcje różnej długości wg Disturb-Extraction Split

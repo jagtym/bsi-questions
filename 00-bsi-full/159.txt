@@ -1,0 +1,6 @@
+QQ0101
+159.	Skrót ACL oznacza:
+	Added Control List
+	Access Control List
+	Lista uprawnień nadanych
+	Lista kontroli dostępu

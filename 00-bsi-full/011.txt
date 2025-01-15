@@ -1,0 +1,6 @@
+QQ0001
+11.	Które komponenty sprzętowe służą (między innymi) do bezpiecznego przechowywania materiału kryptograficznego: [1/1]
+	IEEE 1609.2
+	X.509
+	EFS
+	Trusted Platform Module

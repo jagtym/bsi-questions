@@ -1,0 +1,5 @@
+QQ010
+63.	Z jaką inną opcją polityki silnych haseł ma bezpośredni związek ilość haseł pamiętanych w historii?
+	maksymalny okres ważności hasła
+	minimalny okres ważności
+	minimalna długość hasła

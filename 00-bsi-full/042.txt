@@ -1,0 +1,6 @@
+QQ1000
+42.	Co oznacza udział IPC$ i do czego jest wykorzystywany? [1/1]
+	to udział służący w systemie Windows do zdalnego wywołania procedur (RPC)
+	to udział domyślny służący do zdalnej administracji systemem Windows
+	to udział administracyjny obejmujący wszystkie istniejące lokalne dyski
+	to udział kolejek POSIX IPC służący do lokalnej komunikacji między procesami

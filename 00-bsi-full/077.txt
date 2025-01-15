@@ -1,0 +1,7 @@
+QQ10100
+77.	Który z wymienionych protokołów pozwala w procesie uwierzytelniania całkowicie uniknąć przesyłania hasła podmiotu uwierzytelnianego (w jakiejkolwiek postaci):
+	SSH
+	SSL
+	CHAP
+	PAP
+	SPAP

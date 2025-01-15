@@ -1,0 +1,6 @@
+QQ1000
+249.	Mechanizm OTP (one-time passwords)
+	uniemożliwia atak poprzez odtwarzanie (replaying)
+	weryfikuje nietrywialność hasła podczas jego zmiany
+	jest niewrażliwy na podsłuch
+	uniemożliwia zdobycie hasła metodą przeszukiwania wyczerpującego

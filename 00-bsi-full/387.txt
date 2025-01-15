@@ -1,0 +1,6 @@
+QQ0001
+387.	Poleceniem ulimit użytym przez użytkownika w powłoce można:
+	stworzyć ograniczenie zasobów obowiązujące wszystkie procesy tego użytkownika w systemie (także już te istniejące)
+	stworzyć ograniczenie zasobów obowiązujące wszystkie nowe procesy tego użytkownika w systemie
+	stworzyć ograniczenie zasobów obowiązujące wszystkie procesy tego użytkownika w systemie, ale tylko aż do zakończenia bieżącej sesji (wylogowanie użytkownika)
+	stworzyć ograniczenia zasobów obowiązujące tylko daną powłokę i jej procesy potomne

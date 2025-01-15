@@ -1,0 +1,6 @@
+QQ1111
+123.	Wskaż rodzaje adresów, które zapora sieciowa dokonująca translacji NAT powinna filtrować w pakietach przychodzących od strony zewnętrznej sieci publicznej:
+	dowolne prywatne IP, w polu źródłowym
+	dowolne prywatne IP, w polu docelowym
+	adresy wykorzystywane wewnątrz, w polu źródłowym
+	adresy wykorzystywane wewnątrz, w polu docelowym

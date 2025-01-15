@@ -1,0 +1,9 @@
+QQ0111111
+105.	Wskaż własności protokołu RADIUS:
+	zabezpiecza pocztę elektroniczną wraz z załącznikami
+	mogą go wykorzystywać np. serwery dostępowe
+	jest realizacją koncepcji AAA
+	pozwala na centralizację zarządzania danymi, które dystrybuuje
+	wspomaga uwierzytelnianie (rozproszone)
+	pracuje w architekturze klient-serwer
+	Umożliwia rejestrowanie dostępu do zasobów

@@ -1,0 +1,6 @@
+QQ0001
+174.	System NAC (Network Admission Control):
+	oferują filtracje poczty elektronicznej
+	służą realizacji rozległych korporacyjnych sieci VPN
+	to zapory sieciowe stosujące bezstanowe reguły filtracji
+	umożliwiają blokowanie ruchu sieciowego ze stacji nie spełniających wymagań polityki bezpieczeństwa

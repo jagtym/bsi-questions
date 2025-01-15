@@ -1,0 +1,6 @@
+QQ0111
+309.	Możliwości uwierzytelniania się przy użyciu SSH2 to:
+	mechanizm zaufania (.rhosts)  // to odpada, SSH2 zrezygnowało z mechanizmu zaufania
+	symetryczne klucze użytkownika
+	hasło użytkownika
+	asymetryczne klucze użytkownika

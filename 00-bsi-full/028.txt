@@ -1,0 +1,5 @@
+QQ001
+28.	Które z poniższych cech dotyczą szyfrowania symetrycznego: [1/1]
+	odporność na kolizje
+	gwarancja autentyczności i niezaprzeczalności komunikacji
+	większa niż dla algorytmów asymetrycznych efektywność

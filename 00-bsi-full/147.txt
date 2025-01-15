@@ -1,0 +1,6 @@
+QQ1010
+147.	Przed którymi atakami chroni poprawnie nawiązana sesja VPN (IPsec lub TLS):
+	TCP spoofing
+	SQLi
+	DNS spoofing
+	ARP spoofing

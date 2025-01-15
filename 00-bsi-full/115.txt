@@ -1,0 +1,6 @@
+QQ1010
+115.	Który z wymienionych protokołów chroni klienta przed przypadkiem podszywania się pod zaufany serwer?
+	IPsec + PSK(Pre shared key)
+	HTTP/1.1
+	SSH
+	HTTP/1.0

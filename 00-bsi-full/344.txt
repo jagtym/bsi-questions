@@ -1,0 +1,6 @@
+QQ1011
+344.	Problem przepelnienia bufora dotyczy potencjalnie aplikacji:
+	napisanych w jezyku C
+	napisanych w jezyku Java
+	uruchamianych w systemie z rodziny Windows
+	uruchamianych w systemie z rodziny Unix/Linux

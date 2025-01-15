@@ -1,0 +1,6 @@
+QQ0001
+109.	Do szyfrów asymetrycznych zaliczamy:
+	SHA
+	SSH
+	AES
+	żadne z powyższych

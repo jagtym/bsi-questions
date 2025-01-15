@@ -1,0 +1,6 @@
+QQ0101
+127.	Elementem ochrony przed złośliwym wykorzystaniem przepełnienia bufora może być:
+	remapowanie adresu 0 (dereferencja stała)
+	randomizacja przydziału przestrzeni adresowej procesu
+	remapowanie adresu obsługi przerwania/wyjątku (dereferencja zmienna)
+	wstawienie „kanarka” bezpośrednio po wskaźniku poprzedniej ramki

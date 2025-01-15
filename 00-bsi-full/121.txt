@@ -1,0 +1,6 @@
+QQ0010
+121.	W protokole HTTP/2:
+	uwierzytelnianie klienta jest obowiązkowe
+	uwierzytelnianie serwera jest opcjonalne
+	uwierzytelnianie serwera jest obowiązkowe
+	szyfrowanie całej komunikacji jest obowiązkowe

@@ -1,0 +1,6 @@
+QQ0010
+238.	Okresl prawidlowa kolejnosc pelnej sekwencji odwolan klienta do serwerow w przypadku dostepu do uslugi SMTP w środowisku Kerberos
+	serwer TGS - serwer AS - serwer TGS - serwer SMTP
+	serwer AS - serwer TGS - serwer SMTP - serwer AS
+	serwer AS - serwer TGS - serwer SMTP
+	serwer TGS - serwer AS - serwer SMTP

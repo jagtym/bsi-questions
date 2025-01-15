@@ -1,0 +1,6 @@
+QQ1100
+246.	Wskaż operacje stosowane w metodzie ARP cache detekcji snifferów
+	wysłanie zapytania ICMP echo request z fałszywym adresem źródłowym IP na adres podejrzewanej stacji
+	wysłanie ogłoszenia ARP o fałszywym adresie IP
+	wysłanie zapytania ICMP echo request z fałszywym adresem docelowym IP i oczekiwaniu na odpowiedź
+	odpytanie podejrzewanej stacji o wszystkie adresy MAC sieci lokalnej

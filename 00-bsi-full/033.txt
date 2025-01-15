@@ -1,0 +1,6 @@
+QQ0110
+33.	Wskaż problemy bezpieczeństwa wynikające z fragmentacji IP:
+	fragmentacja jest przyczyną skuteczności ataku SYN flood
+	potencjalna możliwość przepełnienia bufora pamięci przy scalaniu fragmentów
+	utrudniona możliwość filtracji fragmentów przez zapory sieciowe
+	kontrola fragmentacji wymaga użycia ciasteczek SYN cookies

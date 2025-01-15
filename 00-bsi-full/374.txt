@@ -1,0 +1,6 @@
+QQ0110
+374.	Co użytkownik może zrobić za pomocą komendy ulimit?
+	zwiększyć swoje uprawnienia dostępu do plików
+	zablokować możliwość dokonywania zrzutu obrazu pamięci procesu do pliku (core dump)
+	ograniczyć liczbę jednocześnie otwartych plików
+	ograniczyć uprawnienia dostępu do swoich plików dla innych użytkowników

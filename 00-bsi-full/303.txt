@@ -1,0 +1,6 @@
+QQ0011
+303.	Jaka jest kolejność sprawdzania reguł w plikach hosts.deny hosts.allow
+	jeśli znajdzie się najpierw dopasowanie w deny to allow w ogóle nie jest sprawdzane
+	najpierw deny do pierwszego dopasowania
+	najpierw allow do pierwszego dopasowania
+	jeśli znajdzie się najpierw dopasowanie w allow to deny w ogóle nie jest sprawdzane

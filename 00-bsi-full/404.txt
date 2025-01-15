@@ -1,0 +1,6 @@
+QQ0010
+404.	Pliki zwirtualizowane mechanizmem UAC przechowywane są w systemie Windows w:
+	katalogu “%WINDIR%\User Access Container\Sandbox”
+	katalogu ”%SYSTEMDRIVE%\VirtualStore”
+	katalogu “VirtualStore” lokalnym dla każdego użytkownika
+	alternatywnych strumieniach danych (ADS) systemu NTFS

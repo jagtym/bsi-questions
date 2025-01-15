@@ -1,0 +1,6 @@
+QQ0110
+98.	Ataki o nazwie phishing:
+	dotyczą wykradzenia zaufanych certyfikatów użytkownika
+	pozwalają w efekcie podszyć się pod atakowanego
+	mogą być w pewnym stopniu udaremnianie przy pomocy „czarnych list”
+	zmierzają do fałszowania ciasteczek www

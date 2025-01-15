@@ -1,0 +1,6 @@
+QQ1110
+114.	Które z poniższych technologii sprzętowych umożliwiają separację środowiska wykonawczego aplikacja poprzez wirtualizację całości bądź części systemu operacyjnego (np. jądra systemu):
+	TEE (Trusted Execution Environment)
+	VBS (Virtualization-Based Security)
+	ARM TrustZone
+	SSL (Secure Socket Layer)

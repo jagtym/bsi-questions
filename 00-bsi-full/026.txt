@@ -1,0 +1,6 @@
+QQ1111
+26.	Jakie cechy wirtualizacji są istotne dla bezpieczeństwa systemu?
+	procesor utrudnia ucieczkę ze środowiska zwirtualizowanego poprzez ochronę komend hipervisora na poziomie Ring -1
+	wirtualizacja systemu operacyjnego daje efekt piaskownicy dla uruchomionych w tym systemie aplikacji
+	hypervisor pośredniczy w wywołaniach funkcji jąda systemu operacyjnego, więc może wychwytywać potencjalnie niebezpieczne zachowania
+	w systemie wirtualnym bezpośredni dostęp do pamięci fizycznej (w tym pamięci urządzeń I/O) nie jest możliwy nawet dla rozkazów Ring 0, co ułatwia izolację maszyn wirtualnych nawet w przypadku przejęcia uprawnień administracyjnych wewnątrz dowolnej z nich

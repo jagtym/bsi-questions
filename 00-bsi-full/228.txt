@@ -1,0 +1,6 @@
+QQ1001
+228.	Jakie restrykcje pozwala narzucić systemowa funkcja chroot() systemu Unix?
+	ograniczenie odczytu do określonego poddrzewa systemu plików
+	ograniczenie komunikacji sieciowej do wybranych portów
+	niedostępność odziedziczonych deskryptorów
+	ograniczenie zapisu do określonego poddrzewa systemu plików

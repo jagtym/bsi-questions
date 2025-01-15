@@ -1,0 +1,6 @@
+QQ0001
+59.	Dodanie klucza wygenerowanego dla nowego agenta DRA, do istniejącego wcześniej zaszyfrowanego pliku, można uzyskać:
+	automatycznie, poprzez otwarcie tego pliku przez nowego agenta DRA
+	automatycznie, przy pierwszym otwarciu tego pliku przez dowolnego administratora
+	samoczynnie, przy okazji pierwszego dostępu do pliku kogoś mogącego odszyfrować ten plik
+	wydając polecenie cipher /u

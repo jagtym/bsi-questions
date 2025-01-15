@@ -1,0 +1,6 @@
+QQ1000
+50.	Mechanizm EFS:
+	zabezpiecza dostęp do treści poszczególnych plików zarówno w czasie działania systemu, jak i po jego wyłączeniu (at rest)
+	stosuje kryptografię asymetryczną do szyfrowania treści plików
+	realizuje full disc encyption w celu zabezpieczenia systemu operacyjnego przed niepowołanym uruchomieniem i dostępem
+	wymaga do swojego działania konta DRA

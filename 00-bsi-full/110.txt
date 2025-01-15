@@ -1,0 +1,6 @@
+QQ0011
+110.	W metodzie uzgadniania klucza Diffiego-Hellmana system może zostać skompromitowany poprzez:
+	przechwycenie jednego z wymienianych kluczy
+	przechwycenie obu wymienianych klucz
+	postawienie fałszywego klucza w miejsce każdego z wymienianych
+	postawienie fałszywego klucza w miejsce dowolnego z wymienianych

@@ -1,0 +1,6 @@
+QQ1001
+371.	Które stwierdzenia dotyczące blokady konta użytkownika w systemie Windows są nieprawdziwe:
+	licznik prób logowania jest zerowany po każdym nieudanym logowaniu
+	licznik prób logowania jest zerowany automatycznie po zadanym czasie
+	licznik prób logowania może wyzerować administrator
+	licznik prób logowania jest zerowany po każdym pomyślnym zalogowaniu

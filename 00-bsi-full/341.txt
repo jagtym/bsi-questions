@@ -1,0 +1,6 @@
+QQ1000
+341.	Szyfr, w ktorym poddawana szyfrowaniu zostaje tej samej wielkosci jednobajtowa porcja nieregularnie pojawiajacych sie danych, nazywamy:
+	strumieniowym
+	symetrycznym
+	blokowym
+	niesymetrycznym

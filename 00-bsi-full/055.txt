@@ -1,0 +1,6 @@
+QQ0010
+55.	W poleceniu: iptables -I INPUT -p icmp –icmp-type echo-request -m recent –name “ping” –set nazwa “ping”:
+	jest to komentarz, pozwalający na szybką identyfikację reguły w przyszłości (np. w celu modyfikacji lub skasowania)
+	określa ten z ostatnio inicjowanych modułów filtracji (łańcuchów), który teraz będzie przechwytywał wskazane pakiety
+	identyfikuje konkretne statystyki, które później można wykorzystać do dalszej selekcji ruchu
+	definiuje nazwę pliku, który zawierać będzie informacje o ruchu pakietów do bieżącej reguły zapory

@@ -1,0 +1,6 @@
+QQ1000
+328.	Ponizsza regula zostala wpisana na komputerze pelniacym role routera: iptables -t filter -A INPUT -m state --state NEW -j DROP
+	odrzuca nowe polaczenia do tego komputera
+	odrzuca nowe polaczenia inicjalizowane przez ten komputer
+	odrzuca nowe polaczenia przechodzace przez ten komputer
+	DROP znaczy nie przeszukuj dalej zapory, przepusc pakiet

@@ -1,0 +1,6 @@
+QQ0010
+206.	Ukrycie widoczności systemu Ms Win spowoduje:
+	niedziałanie zdalnego logowania do systemu
+	niedziałanie udostępniania zasobów
+	ukrycie systemu przed innymi systemami
+	ukrycie systemu tylko przed systemami typu Unix

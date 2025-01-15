@@ -1,0 +1,6 @@
+QQ1110
+21.	Technologie umożliwiające ochronę integralności transmitowanych danych to m.in:
+	protokół TLS
+	protokół AH
+	protokół ESP
+	SYN cookies

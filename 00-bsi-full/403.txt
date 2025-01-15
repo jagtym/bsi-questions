@@ -1,0 +1,6 @@
+QQ0001
+403.	Który opis pasuje do poniższej konfiguracji TCP wrappera: ftpd: ALL EXCEPT www : ALLOW ALL : ALL : twist /bin/echo “OK”
+	za wyjątkiem komputera www umożliwia każdemu dostęp do każdej usługi
+	zabrania dostępu do usługi WWW z komputera ftpd
+	umożliwia dostęp do usługi FTP z komputera www
+	zabrania dostępu do usługi FTP z komputera www

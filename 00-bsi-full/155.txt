@@ -1,0 +1,6 @@
+QQ0001
+155.	Co zapewnia uwierzytelnianie przez posiadanie?
+	poufność
+	integralność poufność i integralność
+	integralność
+	żadne z powyższych

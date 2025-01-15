@@ -1,0 +1,6 @@
+QQ1110
+311.	Który mechanizm pozwala na wirtualizację jądra systemu:
+	VBS
+	ARM TrustZone
+	TEE
+	SSL

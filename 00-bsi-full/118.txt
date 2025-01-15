@@ -1,0 +1,6 @@
+QQ1011
+118.	Które ataki sieciowe można wyeliminować stosując ochronę autentyczności komunikacji?
+	ARP cache poisoning
+	DNS cache poisoning
+	ARP spoofing
+	DNS spoofing

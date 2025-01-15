@@ -1,0 +1,6 @@
+QQ1110
+104.	Wskaż prawidłowe stwierdzenia dotyczące metod uwierzytelniania systemów operacyjnych MS Windows w środowisku sieciowym:
+	NTLM jest bezpieczniejszy niż LM
+	Kerberos jest bezpieczniejszy niż LM
+	Kerberos jest dostępny tylko w środowisku domenowym
+	LM jest bezpieczniejszy niż NTLM

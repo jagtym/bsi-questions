@@ -1,0 +1,6 @@
+QQ0010
+218.	Który z wymienionych protokołów nie chroni przed podszywaniem się pod podmiot uwierzytelniający:
+	IPsec/IKE
+	IPsec/ISAKMP
+	PAP
+	SSL

@@ -1,0 +1,6 @@
+QQ0001
+391.	Dany jest plik Tajne.txt w katalogu Jawne. Załóżmy, że użytkownik Adaś należy do grupy Users. Katalog Jawne ma przydzielone uprawnienia ACL dla grupy Users: ALLOW na czytanie i DENY na zapis. Plik Tajne.txt ma uprawnienia ALLOW na zapis dla użytkownika Adaś. Jakie uprawnienia ostatecznie ma Adaś do pliku Tajne.txt?
+	ma uprawnienia do odczytu, brak uprawnień do zapisu
+	brak uprawnień do odczytu i zapisu
+	ma uprawnienia do odczytu i zapisu
+	ma uprawnienia do zapisu, brak uprawnienia do odczytu

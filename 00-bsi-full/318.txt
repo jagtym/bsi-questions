@@ -1,0 +1,6 @@
+QQ1111
+318.	Ktore funkcje i parametry konfiguracyjne PHP moga byc wykorzystane do ochrony przed atakami typu command injection?
+	magic_quotes_gpc
+	addslashes()
+	mysql_escape_string()
+	strip_tags()

@@ -1,0 +1,7 @@
+QQ00001
+317.	Czy certyfikaty SSL dla obu stron polaczenia vpn nawiazanego przy pomocy programu OpenVPN musza by podpisane przez ta sam zaufana strone trzecia?
+	nie, poniewaz nie ma takiej opcji w OpenVPN
+	nie, poniewaz nie ma znaczenia czy to jest to samo CA, wazne aby zaufanie strony trzeciej bylo ogolnie znane CA, np. Thawte, VeriSign, Unizeto
+	nie trzeba podawac parametru wskazujacego na CA, jest to opcjonalne
+	tak
+	nie ma odpowiedzi

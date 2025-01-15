@@ -1,0 +1,6 @@
+QQ1111
+231.	Które zdania poprawnie opisują nawiązywanie sesji SSL?
+	serwer przesyła komunikat ServerHello ze swoim certyfikatem
+	klient uwierzytelnia serwer na podstawie odebranego certyfikatu
+	serwer przesyła komunikat ServerHello z opcjonalnym losowym zawołaniem
+	klient odsyła podpisane zawołanie do serwera tylko jeśli serwer zadał uwierzytelnienia klienta

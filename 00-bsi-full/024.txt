@@ -1,0 +1,6 @@
+QQ1000
+24.	Wskaż mechanizmy systemu operacyjnego będące realizacją (choćby częściową) koncepcji piaskownicy:
+	Windows AppContainer
+	SSL/TLS
+	click-jacking
+	wirtualizacja systemu operacyjnego

@@ -1,0 +1,6 @@
+QQ1100
+256.	Systemowa zapora sieciowa w systemie Windows:
+	pozwala zestawiać tunel IPsec domyślnie szyfrując dane algorytmem 3DES
+	może monitorować parametry asocjacji IPsec
+	pozwala zestawiać tunel IPsec domyślnie szyfrując dane algorytmem AES
+	może monitorować parametry asocjacji ISAKMP

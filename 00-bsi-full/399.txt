@@ -1,0 +1,6 @@
+QQ1101
+399.	Mechanizm sudo można tak skonfigurować by:
+	nigdy nie wymagał podania hasła
+	wymagał podania hasła użytkownika, w ramach konta którego należy wykonać polecenie
+	wykonał polecenie bez pytania o hasło użytkownika o ile plik programu tego polecenia ma ustawiony bit SUID
+	wymagał podania hasła bieżącego użytkownika przy każdym poleceniu

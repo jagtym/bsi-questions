@@ -1,0 +1,6 @@
+QQ1100
+69.	Wirtualizacja rejestru w systemie Windows: [1/1]
+	chroni konfigurację systemu przed niepożądanymi zmianami
+	pozwala aplikacji 32-bitowej na modyfikację obszarów rejestru, do których aplikacja nie ma prawa zapisu
+	dotyczy wszystkich gałęzi rejestru
+	jest mechanizmem koniecznym do uruchomienia wirtualnych systemów Windows

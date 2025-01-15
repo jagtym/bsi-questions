@@ -1,0 +1,8 @@
+QQ100111
+280.	Zaznacz poprawne warunki, których spełnienie w systemie plików NTFS pozwoli by użytkownik U należący do grupy G mógł odczytać zawartość pliku P w katalogu K:
+	U lub G dziedziczą dostęp do odczytu z katalogu K
+	U jawnie odebrano prawo odczytu P, ale U dziedziczy to prawo z katalogu K
+	U jawnie odebrano prawo odczytu P, ale G dziedziczy to prawo z katalogu K
+	U lub G mają jawnie nadane prawo odczytu pliku P
+	tylko U ma jawnie nadany dostęp do P i K, G nie nadano żadnych praw ani do K, ani do P
+	tylko U dziedziczy dostęp do P i K, G nie dziedziczy żadnych praw ani do K, ani do P

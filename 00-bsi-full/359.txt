@@ -1,0 +1,6 @@
+QQ1000
+359.	Kontrola dostepu do zasobow jest zwiazana z zachowaniem wlasnosci:
+	poufnosci i integralnosci
+	tylko poufnosci
+	tylko integralnosci
+	zadnej z powyzszych

@@ -1,0 +1,6 @@
+QQ1110
+107.	Wskaż protokoły wymagające zabezpieczenia autentyczności i integralności danych, ale niekoniecznie poufności:
+	DNS (Domain Name Service)
+	ARP (Address Resolution Protocol)
+	STP (Spanning Tree Protocol)
+	rlogin (Remote Login)

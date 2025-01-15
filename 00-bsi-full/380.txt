@@ -1,0 +1,6 @@
+QQ1001
+380.	TCP Wrapper może korzystać z dwóch plików z regułami polityki, przy czym:
+	ponieważ stosuje zasadę pierwszego dopasowania, plik /etc/hosts.deny może nie być w ogóle sprawdzany
+	jeśli reguła nie zostaje odnaleziona w żadnym pliku, to dostęp zostaje odrzucony
+	najpierw sprawdzane są reguły z pliku /etc/hosts.deny, a ewentualnie później reguły z pliku /etc/hosts.allow
+	najpierw sprawdzane są reguły z pliku /etc/hosts.allow, a ewentualnie później reguły z pliku /etc/hosts.deny

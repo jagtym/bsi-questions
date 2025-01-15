@@ -1,0 +1,6 @@
+QQ1110
+248.	Przykładem realizacji mechanizmu uwierzytelniania z udziałem zaufanej trzeciej strony jest
+	protokół Kerberos
+	urząd CA
+	system PKI
+	protokół Diffiego-Hellmana

@@ -1,0 +1,8 @@
+QQ111111
+75.	Wskaż, które z wymienionych operacji obsługiwane są przez mechanizm POSIX CAP (capabilities):
+	administrowanie siecią
+	administrowanie modułami jądra
+	omijanie limitów zasobowych
+	omijanie ograniczeń dotyczących kontroli dostępu do plików
+	dowiązanie do gniazd numerów portów systemowych
+	realizacja komunikacji grupowej rozgłoszeniowej w sieci

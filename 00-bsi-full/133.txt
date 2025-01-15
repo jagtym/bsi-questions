@@ -1,0 +1,6 @@
+QQ1000
+133.	Termin two-factor authentication (2FA) dotyczy:
+	procesu potwierdzania tożsamości przy użyciu dwóch oddzielnych procedur lub składników sprzętowychszare
+	użycia w protokole HTTP/2 obustronnego uwierzytelniania
+	wykorzystania do kontroli integralności danych algorytmów kryptografii asymetrycznej bazujących na złożoności rozkładu dużych liczb na czynniki (faktoryzacji)
+	uwierzytelniania metodą zawołanie-odzew

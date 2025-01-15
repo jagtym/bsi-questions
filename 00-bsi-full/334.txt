@@ -1,0 +1,6 @@
+QQ1000
+334.	Czy polecenie jest poprawne? iptables -t mangle -A PREROUTING -s localnet -d ! localnet -m ipp2p --dc -m comment --comment "zla regulka" -j TTL --ttl-set 1
+	tak, ale system bedzie usuwal te pakiety
+	tak, lecz taka regula niczego nie zmieni, gdyz nie ma celu ACCEPT lub DROP
+	nie, gdyz nie mozna uzywac wielu argumentow "-m"
+	nie, gdyz cel TTL moze byc uzywany tylko w lancuchu POSTROUTING

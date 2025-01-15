@@ -1,0 +1,6 @@
+QQ0100
+302.	Udział C$ jest to:
+	udział domyślny kontrolera domeny służący do obsługi logowania w sieci
+	udział służący do dostępu do dysku C w celach zdalnej administracji
+	udział komunikacji międzyprocesowej w systemie operacyjnym
+	udział do komunikacji IPsec

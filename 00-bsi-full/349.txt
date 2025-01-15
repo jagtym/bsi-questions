@@ -1,0 +1,8 @@
+QQ010001
+349.	Ktore polecenie bedzie poprawne, dla ustalenia SNAT
+	iptables -t nat -A FORWARD -o eth0 -j SNAT --to 150.254.17.2
+	iptables -t nat -A POSTROUTING -o eth0 -j SNAT --to 150.254.17.2
+	iptables -t nat -A PREROUTING -o eth0 -j SAME --to 150.254.17.2
+	iptables -t nat -A POSTROUTING -o eth0 -j NAT --to 150.254.17.2
+	iptables -t fnat -A PREROUTING -o eth0 -j SNAT --to 150.254.17.2
+	iptables -t nat -A POSTROUTING -o eth0 -j SAME --to 150.254.17.2

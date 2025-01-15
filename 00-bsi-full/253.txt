@@ -1,0 +1,6 @@
+QQ0111
+253.	Do zrealizowania zamaskowanego kanału komunikacyjnego może potencjalnie posłużyć
+	port szeregowy
+	kolejka drukowania
+	system plików
+	obciążenie systemu

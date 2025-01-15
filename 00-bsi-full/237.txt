@@ -1,0 +1,6 @@
+QQ1100
+237.	Moduły PAM (Pluggable Authentication Modules) umożliwiają
+	oddzielenie konfiguracji procesu uwierzytelniania od kodu aplikacji
+	integrację uwierzytelniania użytkowników sieci pomiędzy systemami Windows i Linux
+	dostęp serwera usługi www (np. z systemu operacyjnego MS Windows w środowisku domenowym) do zewnętrznych źródeł danych uwierzytelniających, np. bazy danych
+	implementuje filtry Bayesa do ochrony poczty przed niepożądanymi przesyłkami

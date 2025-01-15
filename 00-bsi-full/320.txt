@@ -1,0 +1,6 @@
+QQ1000
+320.	Program inetd to:
+	wazny element systemu operacyjnego Linux, odpowiedzialny za uruchamianie innych programow
+	krytyczny program w systemie operacyjnym Linux, ktory zawsze musi byc uruchomiony
+	krytyczny program w systemie operacyjnym Linux, ktory zawsze musi byc uruchomiony, jest rodzicem dla wszystkich nowo powstalych procesow
+	bardzo wazny komponent systemu Linux, bez ktorego system operacyjny nie bedzie dzialal prawidlowo z uwagi na niemoznosc uruchamiania dodatkowych programow

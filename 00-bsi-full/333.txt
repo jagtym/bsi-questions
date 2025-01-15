@@ -1,0 +1,5 @@
+QQ001
+333.	Polaczenie w Vtun przebiega nastepujaco:
+	w momencie tworzenia polaczenia wykonywane sa odpowiednie podsekcje up w definicji danego polaczenia ktore ma zostac utworzone, w momencie zakonczenia polaczenia wykonywana jest podsekcja down w definicji polaczenia
+	po nawiazaniu polaczenia obie strony uzgadniaja parametry polaczenia takie jak np. haslo i rodzaj transmisji danych, w momencie zakonczenia polaczenia nastepuje specjalna procedura rozpoczynana przez strone, ktora chce zakonczyc polaczenie
+	w zaden z wymienionych, na poczatku sposobow, obie strony musza wymienic sie ustalonym haslem, potwierdzic jego prawdziwosc, wynegocjowac parametry transmisji i dopiero tworzone jest polaczenie do przesylania danych, zakonczenie rozpoczynane jest przez dowolna strone

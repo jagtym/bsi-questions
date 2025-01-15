@@ -1,0 +1,6 @@
+QQ1100
+80.	Spośród podanych mechanizmów wskaż te wykorzystujące kryptografię:
+	X.509
+	podpis cyfrowy
+	ROT13
+	UUencoding

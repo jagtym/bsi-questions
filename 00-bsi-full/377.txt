@@ -1,0 +1,6 @@
+QQ0111
+377.	Których wpisów ACE na liście POSIX ACL dotyczy maska:
+	właściciela obiektu
+	grupy (domyślnej) pliku (z bazowych ACE)
+	każdej jawnie wpisanej grupy
+	wszystkich użytkowników niewpisanych jawnie, ale należących do dowolnej jawnie wpisanej grupy

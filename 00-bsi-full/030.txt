@@ -1,0 +1,6 @@
+QQ0010
+30.	Wskaż cechy mechanizmu AppContainer:
+	kontroluje wywołania funkcji jądra systemu operacyjnego
+	jest “lekkim” odpowiednikiem maszyny wirtualnej, z tą różnicą, że nie zawiera zwirtualizowanego systemu operacyjnego, tylko aplikację i potrzebne biblioteki
+	wykorzystuje wirtualizację systemu plików i rejestru systemu Windows
+	jest rodzajem kwarantanny dla potencjalnie zainfekowanych aplikacji, przetrzymywanych tam zanim antywirus otrzyma z chmury ostateczny rezultat analizy behawioralnej podejrzanego kodu

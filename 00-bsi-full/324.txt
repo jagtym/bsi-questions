@@ -1,0 +1,6 @@
+QQ0100
+324.	Jesli ls -l plik.txt wyglada nastepujaco -rwx r-x r-x+ 1 user group 1000 2005-01-10 09:00 plik.txt to chmod 715 plik.txt" spowoduje:
+	zwiekszenie uprawnien wpisom ACL'owym
+	zmiane uprawnien grupie "group" dla tego pliku
+	zmniejszenie uprawnien wpisom ACL'owym
+	rozszerzenie uprawnien dla innych

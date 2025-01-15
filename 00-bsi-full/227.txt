@@ -1,0 +1,6 @@
+QQ1000
+227.	Mechanizm ACL umożliwia
+	nadawanie praw (rwx) wielu użytkownikom i grupom
+	odtwarzanie zniszczonych plików
+	nadawanie nowych praw (np. dopisywania) wielu użytkownikom
+	ustanowienie szyfrowania plików

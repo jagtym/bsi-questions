@@ -1,0 +1,6 @@
+QQ0110
+44.	W których z poniższych przypadków rekalkulowana jest maska uprawnień ACL w systemie Linux:
+	gdy podamy opcję -m dla polecenia setfacl
+	przy zmianie uprawnień właściciela przy pomocy polecenia chmod
+	przy każdej zmianie uprawnień poleceniem setfacl, chyba że użyjemy opcji -n
+	przy dowolnej zmianie uprawnień danej kategorii praw (np. maska dla grupy modyfikowana jest przy modyfikacji praw dotyczących grupy)

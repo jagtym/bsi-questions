@@ -1,0 +1,6 @@
+QQ0010
+270.	Zapora sieciowa lokalnego systemu na stanowisku X zablokowała możliwość zdalnego odpytywania o dostępności X przy pomocy narzędzia ping, pozostawiając jednak możliwość zdalnego dostępu do serwera www w tym systemie. Mogła to osiągnąć poprzez
+	wyłączenie ruchu IP na wszystkich interfejsach, ale pozostawienie dostępu do wskazanych portów TCP
+	zablokowanie komunikacji z siecią dla programu ping
+	wyłączenie obsługi przychodzących komunikatów ICMP echo
+	odrzucenie całego ruchu ICMP

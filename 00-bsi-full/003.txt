@@ -1,0 +1,10 @@
+QQ01001010
+3.	Metoda Diffiego-Hellmana:
+	pozwala bezpiecznie składować klucze prywatne użytkowników
+	jest odporna na ataki pasywne
+	jest odporna na ataki aktywne
+	pozwala bezpiecznie dystrybuować klucze publiczne użytkowników
+	wykorzystuje ideę asymetrycznej pary kluczy (prywatny-publiczny)
+	generuje programowo hasła SSO
+	pozwala wygenerować symetryczny klucz sesji
+	realizuje uwierzytelnianie metodą haseł jednorazowych

@@ -1,0 +1,6 @@
+QQ0111
+144.	Które z poniższych cech poprawnie opisują standard IEEE 802.1X:
+	umożliwia scentralizowane zarządzanie kluczami publicznymi użytkowników PKI/X
+	może wykorzystywać certyfikaty X.509 do kontroli dostępu w sieciach WiFi
+	chroni przed atakami IP spoofing
+	umożliwia uwierzytelnianie stanowisk sieci LAN

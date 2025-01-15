@@ -1,0 +1,6 @@
+QQ0010
+100.	Jakie restrykcje wprowadza flaga Secure w definicji ciasteczka WWW?
+	do ciasteczka nie można uzyskać dostępu w skryptach
+	dostęp do ciasteczka ma tylko oryginalna strona, która utworzyła ciasteczko
+	ciasteczko będzie wysyłane do serwera tylko w tunelach kryptograficznych
+	ciasteczko musiało zostać sprawdzone przez filtr SOP

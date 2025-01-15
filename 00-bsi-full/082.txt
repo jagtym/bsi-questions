@@ -1,0 +1,6 @@
+QQ0010
+82.	Komputery kwantowe i obliczenia kwantowe mogą stanowić poważne zagrożenie dla:
+	steganografii
+	aktualnych mechanizmów detekcji anomalii w systemach IDS
+	współczesnych algorytmów kryptografii asymetrycznej, takich jak RSA
+	zapór sieciowych typu proxy

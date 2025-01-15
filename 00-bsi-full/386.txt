@@ -1,0 +1,6 @@
+QQ1111
+386.	Windows Firewall pozwala tworzyć reguły:
+	przepuszczające wybrany ruch
+	blokujące wysyłanie ruchu sieciowego przez wskazane programy
+	blokujące odbieranie ruchu sieciowego przez wskazane programy
+	blokujące wybrany ruch

@@ -1,0 +1,7 @@
+QQ10001
+255.	Jakie właściwości można ustawić w Zasadach haseł w systemie Windows?
+	złożoność haseł
+	maksymalna długość nazwy użytkownika
+	minimalna długość nazwy użytkownika
+	włączenie szyfrowania AES haseł użytkowników
+	minimalna długość hasła użytkownika

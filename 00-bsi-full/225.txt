@@ -1,0 +1,6 @@
+QQ1000
+225.	Program xinetd to:
+	ważny element systemu operacyjnego Linux, odpowiedzialny za uruchamianie innych programów
+	krytyczny program w systemie operacyjnym Linux, który zawsze musi być uruchomiony
+	krytyczny program w systemie operacyjnym Linux, który zawsze musi być uruchomiony, jest rodzicem dla wszystkich nowo powstałych procesów
+	bardzo ważny komponent systemu Linux, bez którego system operacyjny nie będzie działał prawidłowo z uwagi na niemoznosc uruchamiania dodatkowych programów

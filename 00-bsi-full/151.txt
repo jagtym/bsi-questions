@@ -1,0 +1,6 @@
+QQ0010
+151.	Wyobraźmy sobie serwer udostępniający wybranym podsieciom dwie usługi: www i ftp. Zapewnienie kontroli dostępu, np. za pomocą narzędzia personal firewall (lub wrappera połączeń) tylko do jednej z tych usług stanowi:
+	realizację predykatu ograniczonej kontroli dostępu (MAC)
+	naruszenie warunku spójności pionowej zabezpieczeń
+	naruszenie warunku spójności poziomej zabezpieczeń
+	naruszenie zasad poziomu B1/TCSEC i EAL4/CC

@@ -1,0 +1,6 @@
+QQ1000
+192.	Mechanizm TCP Wrapper:
+	pozwala ograniczać dostęp do usług uruchamianych przez xinetd
+	pozwala blokować spam przychodzący do serwera SMTP
+	pozwala szyfrować ruch TCP z użyciem protokołów TLS/SSL
+	powstał, aby wprowadzić silne uwierzytelnianie dla tzw. small services

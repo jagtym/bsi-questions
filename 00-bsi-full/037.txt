@@ -1,0 +1,10 @@
+QQ11101011
+37.	Które z poniższych cech prawidłowo opisują protokół IKE? [1/1]
+	umożliwia zmianę kluczy szyfrowania protokołu IPsec ESP
+	uwierzytelnia sesje SA protokołu IPsec
+	negocjuje parametry sesji SA protokołu IPsec
+	umożliwia zmianę kluczy szyfrowania protokołu IPsec AH
+	oferuje uwierzytelnianie stron
+	korzysta z ICMP
+	korzysta z UDP
+	oferuje negocjację algorytmów szyfrujących

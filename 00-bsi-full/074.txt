@@ -1,0 +1,6 @@
+QQ0010
+74.	Standard IEEE 802.1ae:
+	to odpowiednik IPsec na poziomie warstwy transportowej
+	oferuje uwierzytelnianie na poziomie warstwy sieciowej OSI
+	oferuje ochronę poufności i integralności komunikacji na poziomie warstwy MAC
+	oferuje ochronę poufności i integralności komunikacji na poziomie warstwy OSI

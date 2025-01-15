@@ -1,0 +1,7 @@
+QQ10010
+366.	Czy TCP wrapper to
+	samodzielny program analizujacy tylko polaczenia tcp
+	lata (ang. patch) rozszerzajaca funkcjonalnosc programu xinetd
+	program analizujacy tylko przychodzace polaczenia tcp, ale dla numerow portow na ktorych uruchomione sa uslugi zarzadzane przez xinetd
+	program w postaci prostego firewalla za pomoca ktorego mozna blokowac wychodzace polaczenia, odpowiednie reguly zapisywane sa w plikach /etc/hosts.allow i /etc/hosts.deny
+	dodatkowy podsystem sieciowy dla systemu operacyjnego Linux pozwalajacy na nakladanie ograniczen dla polaczen przychodzacych

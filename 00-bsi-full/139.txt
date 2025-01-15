@@ -1,0 +1,6 @@
+QQ1000
+139.	Wskaż wśród wymienionych jeden standard bezpieczeństwa, którego należy najbardziej unikać w zabezpieczaniu sieci WiFi:
+	WEP
+	WPA2
+	WPA
+	802.11i

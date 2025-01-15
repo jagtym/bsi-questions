@@ -1,0 +1,6 @@
+QQ0001
+181.	Do czego służy protokół SMTP?
+	pozwala na szyfrowania załączników wiadomości
+	pozwala na przesyłanie grupowych wiadomości w trybie multicast
+	pozwala na przeszukiwanie bazy użytkowników na serwerze smtp w celu określenia adresata wiadomości
+	pozwala na wysyłanie wiadomości do innych użytkowników

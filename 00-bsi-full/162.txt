@@ -1,0 +1,7 @@
+QQ10001
+162.	TUN/TAP to:
+	rozszerzenie programu OpenVPN
+	sterownik działający tylko na systemach Windows
+	sterownik działający tylko na systemach Linux
+	coś takiego nie istnieje
+	komponent pozwalający tworzyć wirtualne interfejsy sieciowe

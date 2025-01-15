@@ -1,0 +1,6 @@
+QQ1100
+240.	Standard SASL (Simple Authentication and Security Layer) umożliwia
+	rozszerzenie mechanizmu uwierzytelniania protokołu SMTP o mechanizm haseł jednorazowych
+	rozszerzenie mechanizmu uwierzytelniania protokołu IMAP o współpracę z systemem Kerberos
+	rozszerzenie mechanizmu kontroli dostępu do katalogu domowego o listy ACL
+	redukcje mechanizmu kontroli dostępu do plików w Windows do postaci rwx

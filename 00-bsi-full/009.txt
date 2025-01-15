@@ -1,0 +1,6 @@
+QQ1101
+9.	System Kerberos oferuje (wybierz wszystkie poprawne możliwości): [1/1]
+	kryptograficzne uwierzytelnianie użytkowników w ramach domeny
+	delegowanie uprawnień jednego podmiotu innym podmiotom
+	zastosowanie kryptograficznego weryfikatora w celu ochrony przed atakiem Golden Ticket
+	uwierzytelnianie użytkowników pomiędzy domenami

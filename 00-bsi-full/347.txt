@@ -1,0 +1,6 @@
+QQ0110
+347.	Dyrektywa "mask" w ACL okresla:
+	mozna ja modyfikowac jedynie raz
+	jest utozsamiana z uprawnieniami grupy
+	ukrywanie nadanych uprawnien dodatkowych uzytkownikow
+	nie ma zadnego znaczenia

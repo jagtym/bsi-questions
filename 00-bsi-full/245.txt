@@ -1,0 +1,6 @@
+QQ0100
+245.	Jakie komponenty tworzą każdą zaporę sieciowa?
+	dekoder ramek PDU
+	filtr pakietów
+	sniffer pakietów
+	skaner portów

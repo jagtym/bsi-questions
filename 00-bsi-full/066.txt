@@ -1,0 +1,6 @@
+QQ1000
+66.	Kolejność sprawdzania reguł polityki przez TCP Wrappera (pomijajac opcje only_from oraz no_access) jest następująca:
+	najpierw hosts.allow, potem hosts.deny, do odnalezienia pasującej reguły
+	sprawdzane są wszystkie reguły i jeżeli żadna z nich nie kończy się DENY, przyznawany jest dostęp
+	najpierw hosts.deny, potem hosts.allow, do odnalezienia pierwszej pasującej reguły
+	sprawdzane są wszystkie reguły i jeżeli żadna z nich nie kończy się DENY, a chociaż jedna kończy się ALLOW, przyznawany jest dostęp

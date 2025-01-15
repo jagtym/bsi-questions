@@ -1,0 +1,8 @@
+QQ100010
+300.	Definicji zaufania (single-sign-on) dla usług r* można dokonywać w:
+	~/.rhosts
+	/etc/rhosts
+	~/.sso_hosts
+	/etc/hosts.allow
+	/etc/hosts.equiv
+	/etc/hosts

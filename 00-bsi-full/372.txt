@@ -1,0 +1,7 @@
+QQ00001
+372.	Zasoby systemu operacyjnego MS Windows udostępnione poprzez SMB:
+	są dostępne zdalnie tylko dla tych użytkowników, którzy posiadają lokalne konto w systemie
+	operacyjnym
+	nazywa się portami
+	zawsze wymagają uwierzytelniania (podania hasła) przy dostępie zdalnym
+	mogą mieć ograniczony dostęp do odczytu i/lub zapisu tylko dla wskazanych użytkowników

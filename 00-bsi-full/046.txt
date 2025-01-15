@@ -1,0 +1,6 @@
+QQ0100
+46.	Aby użytkownik L na komputerze HL mógł logować się bez podawania hasła na komputer HR na konto R należy:
+	skopiować klucz prywatny użytkownika R z komputera HR do pliku ~/.ssh/authorized_keys na koncie L na komputerze HL
+	skopiować klucz publiczny użytkownika L z komputera HL do pliku ~/.ssh/authorized_keys na koncie R na komputerze HR
+	skopiować klucz publiczny użytkownika R z komputera HR do pliku ~/.ssh/authorized_keys na koncie L na komputerze HL
+	skopiować klucz prywatny użytkownika L z komputera HL do pliku ~/.ssh/authorized_keys na koncie R na komputerze HR

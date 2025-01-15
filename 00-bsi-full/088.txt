@@ -1,0 +1,6 @@
+QQ1011
+88.	Tryb strumieniowy szyfrowania:
+	umożliwia szyfrowanie komunikacji asynchronicznej
+	wymaga klucza prywatnego i publicznego
+	polega na szyfrowaniu każdorazowego po jednym znaku
+	wykorzystuje wektor inicjujący rejestr szyfrowania

@@ -1,0 +1,6 @@
+QQ1010
+208.	Flaga suid wg standardu POSIX 1003.1
+	oznacza przejęcie przez proces uprawnień właściciela pliku, z którego proces został uruchomiony
+	oznacza, że usunięcie i zmiana nazwy pliku są możliwe tylko przez właściciela samego pliku (lub właściciela katalogu)
+	może być nadawana dla plików wykonywalnych
+	ma sens tylko w przypadku katalogów

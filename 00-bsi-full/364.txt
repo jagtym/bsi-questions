@@ -1,0 +1,6 @@
+QQ0001
+364.	W jaki sposob polaczenie nawiazane przez rsh jest zabezpieczone?
+	kodowana komunikacja przy uzyciu funkcji XOR
+	szyfrowana komunikacja po podaniu hasla i loginu
+	komunikacja uwierzytelniana w kryptograficznie bezpieczny sposob
+	komunikacja nie jest chroniona

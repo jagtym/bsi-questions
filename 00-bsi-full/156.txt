@@ -1,0 +1,6 @@
+QQ0001
+156.	Bezpośrednim celem ataku metodą przepełnienia bufora jest:
+	wypchnięcie wartości zmiennych globalnych programu poza chroniony segment danych
+	uszkodzenie zawartości segmentu danych i w efekcie zawieszenie procesu
+	uszkodzenie zawartości segmentu kodu i w efekcie zawieszenie procesu
+	nadpisanie adresu powrotu na stosie

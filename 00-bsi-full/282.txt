@@ -1,0 +1,6 @@
+QQ0101
+282.	getfacl --omit-header test user::rwx user:jbond:rwx group::r-- group:agents:r-x mask::r-x other::--- default:user::rwx default:user:jbond:r-x default:group::-wx default:group:agents:-wx default:mask::--x default:other::r-x Oznacza, że:
+	grupa "agents" może modyfikować zawartość obiektu test
+	właściciel może tworzyć pliki w katalogu test
+	użytkownik "jbond" może modyfikować zawartość obiektu test
+	użytkownik "jbond" może przeglądać listę plików w katalogu test

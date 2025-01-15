@@ -1,0 +1,8 @@
+QQ000110
+367.	user::r-x user:inf44444:r-- group::rw- group:student:r-x mask::rwx other::--x Oznacza
+	wszyscy moga wykonac plik
+	grupa "student" moze zmodyfikowac plik
+	uzytkownik "inf44444" nie moze czytac plik
+	uzytkownik "inf44444" moze czytac plik
+	grupa wlasciciela moze zmodyfikowac plik
+	maska blokuje wszystkie uprawnienia

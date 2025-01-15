@@ -1,0 +1,6 @@
+QQ0100
+382.	Które z poniższych poleceń pozwolą ustawić bit SGID dla katalogu dir:
+	set-suid dir
+	chmod g+s dir
+	sgid -- set dir
+	setfacl -m group :: s

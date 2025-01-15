@@ -1,0 +1,6 @@
+QQ0001
+262.	Mechanizm SUID/SGID:
+	SUID zawsze powoduje wykonanie aplikacji z uprawnieniami grupy właściciela aplikacji
+	SUID zawsze powoduje wykonanie aplikacji z uprawnieniami administratorskimi
+	SGID zawsze powoduje wykonanie aplikacji z uprawnieniami administratorskimi
+	SGID zawsze powoduje wykonanie aplikacji z uprawnieniami grupy właściciela aplikacji
