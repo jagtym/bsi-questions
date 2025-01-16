@@ -1,4 +1,4 @@
-QQ10001
+QQ00001
 162.	TUN/TAP to:
 	rozszerzenie programu OpenVPN
 	sterownik działający tylko na systemach Windows
