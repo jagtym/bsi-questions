@@ -1,8 +1,11 @@
 MAIN := 00-bsi-full
-DIRS := 01-bsi-wednesday 02-bsi-thursday 03-bsi-friday 04-bsi-saturday 05-bsi-sunday testing
+TESTING_DIR := testing
+DIRS := 01-bsi-wednesday 02-bsi-thursday 03-bsi-friday 04-bsi-saturday 05-bsi-sunday $(TESTING_DIR)
+
 
 # copies ***.txt questions from main to directory of day that has file with the same name
 sync:
+	mkdir -p $(TESTING_DIR)
 	@for dir in $(DIRS); do \
 		for file in $(MAIN)/*.txt; do \
 			if [ -f $$dir/$$(basename $$file) ]; then \
