@@ -1,4 +1,4 @@
-QQ0010
+QQ1000
 389.	Użytkownik U systemu Linux jest właścicielem zasobu O w systemie plików i na liście ACL tego zasobu ma przyznane prawa rw, a maska zawiera prawa r oraz x. Jakie efektywne uprawnienia do O posiada aktualnie U?
 	tylko r
 	tylko w
