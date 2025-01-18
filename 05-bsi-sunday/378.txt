@@ -1,4 +1,4 @@
-QQ0010
+QQ0100
 378.	Wskaż wszystkie warunki konieczne do weryfikacji podpisu cyfrowego wiadomości S/MIME:
 	uprzednie przekazanie do nadawcy klucza publicznego odbiorcy
 	dostęp odbiorcy do certyfikatu klucza publicznego CA, który certyfikował klucz publiczny nadawcy
