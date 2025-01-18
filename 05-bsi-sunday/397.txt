@@ -1,4 +1,4 @@
-QQ1000
+QQ1010
 397.	Czy pakiet PGP(GPG) używa szyfrowania symetrycznego?
 	tak, treść listu jest zawsze szyfrowana algorytmem symetrycznym
 	nie, PGP stosuje tylko kryptografię klucza publicznego
