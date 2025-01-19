@@ -1,4 +1,4 @@
-QQ0110
+QQ0010
 357.	Algorytmy SHA-256 i SHA-512 roznia sie wzajemnie:
 	ograniczeniami eksportowymi
 	dlugoscia kluczy
