@@ -1,4 +1,4 @@
-QQ11110001
+QQ10110001
 179.	IPsec ESP umożliwia zapewnienie:
 	autentyczności treści datagramu przy wykorzystaniu algorytmu MD5
 	autentyczności treści datagramu przy wykorzystaniu algorytmu 3DES
