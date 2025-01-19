@@ -1,4 +1,4 @@
-QQ1011000110
+QQ101100011110
 177.	Do szyfrów symetrycznych zaliczamy:
 	IDEA
 	RSA
@@ -9,4 +9,7 @@ QQ1011000110
 	MD5
 	DES
 	RC4
-	RC2 k) AES l) żadne z powyższych
+	RC2
+	AES
+	żadne z powyższych
+
